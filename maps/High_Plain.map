@@ -1,0 +1,25 @@
+border_size=1
+usage=map
+
+       Gs,       Gs,       Gs,       Gs,    Gs^Fp,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gs,       Gs,       Gs,       Gs,    Gs^Fp,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg
+       Hh,       Hh,       Hh,       Hh,       Gs,       Gs,     2 Ke,       Ce,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Hh,       Hh,       Gg,       Gg,       Gg,       Gg,       Gg
+       Gs,       Gs,       Hh,       Hh,       Gs,       Ce,       Ce,       Ce,       Gs,       Gs,       Gs,    Gs^Fp,       Gs,       Ww,       Gs,       Hh,       Gs,       Hh,       Hh,       Gg,       Hh,       Hh
+       Gs,       Gs,       Gs,       Hh,       Gs,       Gs,       Gs,       Gs,       Gs,   Gs^Vht,       Re,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Hh,       Gs,       Hh,       Hh,       Hh
+       Gs,       Gs,       Gs,       Hh,       Gs,       Gs,       Hh,       Gs,       Gs,       Gs,       Gs,       Re,       Re,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs
+       Gs,       Gs,    Gs^Fp,       Gs,       Gs,       Hh,       Xu,       Hh,       Mm,       Gs,       Gs,       Gs,       Re,       Gs,       Gs,   Gg^Fet,       Hh,       Gs,       Gs,       Gs,       Gs,       Gs
+       Gs,       Gs,    Gs^Fp,       Gs,       Gs,       Hh,       Mm,       Hh,       Xu,       Mm,       Hh,       Gs,       Hh,       Re,       Re,       Gs,       Gs,       Xu,       Hh,       Gs,       Gs,       Gs
+       Gs,       Gs,    Gs^Fp,    Gs^Fp,       Gs,       Gs,       Hh,       Mm,       Hh,       Uu,       Xu,       Mm,       Mm,       Gs,       Re,       Gs,       Gs,       Hh,       Gs,       Gs,       Gs,       Gs
+       Gs,       Gs,    Gs^Fp,       Gs,   Gg^Fet,       Gs,       Gs,       Gs,       Gs,       Mm,       Mm,       Hh,       Hh,       Hh,       Gs,       Re,       Gs,       Gs,       Gs,       Gs,       Hh,       Hh
+       Gs,       Gs,       Gs,       Gs,       Ww,       Gs,       Gs,       Gs,       Gs,       Hh,       Gs,       Gs,       Gs,       Gs,       Re,       Re,       Gs,       Gs,       Gs,       Hh,       Gs,       Gs
+       Gs,       Gs,       Ww,       Ww,       Ww,       Gg,       Gg,       Gg,       Gs,       Gs,       Gs,       Gs,       Re,       Re,       Gs,       Gs,       Gs,       Gs,       Gs,       Hh,       Gs,       Gs
+       Gs,       Gs,       Gs,       Ww,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gs,       Gs,       Re,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs
+       Hh,       Hh,       Hh,       Gs,       Gg,       Gg,       Gs,       Gg,       Gs,       Gg,       Gs,       Gs,       Re,       Gs,       Gs,       Gs,       Gs,       Hh,       Gs,   Gs^Vht,       Gs,       Gs
+       Gg,       Gg,       Hh,       Hh,       Gs,       Gg,       Gs,       Gg,       Gs,       Gs,       Gs,       Gs,       Re,       Gs,       Gs,       Gs,       Hh,       Hh,       Gs,       Gs,       Gs,       Gs
+       Gg,       Gg,       Gg,       Hh,       Hh,       Gs,       Gs,       Gs,       Gs,       Gs,       Re,       Re,    Gs^Fp,       Re,       Re,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs
+       Gg,       Gg,       Gg,       Gg,       Hh,       Hh,       Re,       Re,       Re,       Re,       Gs,       Gs,       Gs,       Gs,   Gs^Vht,       Re,       Re,       Gs,       Ce,       Ce,       Gs,       Gs
+       Gg,       Gg,       Gg,       Gg,       Re,       Re,       Hh,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Re,       Ce,     1 Ke,       Gs,       Gs
+       Gg,       Gg,       Gg,       Gg,       Re,       Hh,       Hh,       Gs,       Hh,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,       Gs,   Gs^Zvt,       Gg,       Gg
+       Gg,       Gg,       Gg,       Re,       Gg,       Gg,       Hh,       Hh,       Hh,       Hh,       Hh,       Hh,       Hh,       Hh,       Hh,       Gs,       Hh,       Gs,       Gs,       Gg,       Hh,       Hh
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Hh,       Gg,       Hh,       Hh,       Hh,       Gg,       Gg
+       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Gg,       Hh,       Gg,       Hh,       Hh,       Hh,       Gg,       Gg
