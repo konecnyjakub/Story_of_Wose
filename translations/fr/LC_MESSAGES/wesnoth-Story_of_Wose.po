@@ -1,0 +1,684 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 13:08+0200\n"
+"PO-Revision-Date: 2010-05-08 20:58+0100\n"
+"Last-Translator: Guigou Guillaume <guillaume.guigou@orange.fr>\n"
+"Language-Team: none <>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid ""
+"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Hard"
+msgstr ""
+"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Difficile"
+
+msgid "-10% blade damage"
+msgstr "-10% dommage tranchant"
+
+msgid "-10% fire damage"
+msgstr "-10% dommage de feu"
+
+msgid "-10% impact damage"
+msgstr "-10% impact"
+
+msgid "-10% pierce & cold damage"
+msgstr "- 10% dommage perforant et froid"
+
+msgid "Aiee, so soon to die again!"
+msgstr "Aiee, si jeune et mourir à nouveau!"
+
+msgid "All right, I'll try to close it. Brace yourself."
+msgstr "Bon, je vais essayer de le fermer. Accroche-toi"
+
+msgid ""
+"All right, what happened here? This first portal was supposed to go two "
+"miles, not to the east continent."
+msgstr ""
+"Et bien, que s'est-il passé ici ? Ce premier portail était censé s'ouvrir à "
+"deux kilomètres d'ici, et non sur le continent est."
+
+msgid ""
+"Allow me to introduce myself. I am the historian of Wesnoth. All that "
+"happens, I see and record. It is all here, everything of note."
+msgstr ""
+"Laissez moi me présenter. Je suis l'historien de Wesnoth. Tout ce qui se "
+"passe, je le vois et je le note. Tout est là, tout ce qui est digne "
+"d'intérêt."
+
+msgid ""
+"And so the story was told of how the wood magi awakened the trees and how "
+"they were the first humans to set foot upon the great continent. Many years "
+"later Elilmaldur-Rithrandal would play a key part in the foundation of a "
+"great nation of humans upon this continent. The wood magi, elusive as always "
+"and distrustful of other humans, would take no part again in history for "
+"more than a thousand years."
+msgstr ""
+"Et c'est ainsi que fut racontée l'histoire des mages des bois qui "
+"réveillèrent les arbres, et qui furent les premiers humains à poser le pied "
+"sur le Grand Continent. De nombreuses années plus tard Elilmaldur-Rithrandal "
+"jouerait un rôle clé dans la fondation de la grande nation des hommes sur ce "
+"continent. Les mages des bois, insaisissable comme toujours, et se méfiant "
+"des autres êtres humains, se tinrent à l'écart de l'Histoire pendant plus "
+"que mille ans."
+
+msgid "Begger"
+msgstr "Mendiant"
+
+msgid ""
+"But as with all such footnotes, the resulting effect on this history of "
+"Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
+"No?"
+msgstr ""
+"Mais comme toutes les anecdotes, les évènements qu'elle relate eûrent un "
+"effet immense sur le déroulement de l’histoire de Wesnoth. N'avez vous pas "
+"entendu parler de l'effet papillon à l'école ?"
+
+msgid "Caror you idiot! Who else have you been spying on this time?"
+msgstr "Caror! idiot ! Qui d'autre as-tu été espionner cette fois?"
+
+msgid "Cave"
+msgstr "Caverne"
+
+msgid "Child, do not despair. There is yet hope."
+msgstr "Mon enfant, reprend courage. Il y a encore de l'espoir."
+
+msgid ""
+"Closely related to the fairies are the pixies, which really are about three "
+"inches tall. They have a particularly whimisical attitude and a protective "
+"nature. As such, the fairies, and others, find them useful as messengers."
+msgstr ""
+"Les lutins sont étroitement apparentés aux fées. Ils font environ huit "
+"centimètres de hauteur, ont une attitude particulièrement capricieuse et une "
+"nature protectrice. Pour cette raison, les fées et quelques autres les "
+"utilisent souvent comme messagers."
+
+msgid "Come on, into the catacombs"
+msgstr "Allons, pénétrons dans les catacombes"
+
+msgid "Demilich"
+msgstr "Demilich"
+
+msgid "Don't worry about me. I will wake up more trees and crush these humans."
+msgstr ""
+"Ne t'inquiète pas pour moi. Je vais réveiller quelques arbres "
+"supplémentaires et écraser ces humains."
+
+msgid "Epilogue"
+msgstr "Épilogue"
+
+msgid "Ewwww"
+msgstr "Hummm"
+
+msgid "Feel free to look around. Read any book. Just don't wreck things."
+msgstr ""
+"N'hésitez pas à faire un tour. Vous pouvez lire ce qui vous plait, mais "
+"faites attention de ne rien casser."
+
+msgid "Fine, I'll kill you too."
+msgstr "Très bien, je vais donc vous tuer vous aussi."
+
+msgid "First these filthy orcs, now these nasty things. What a mess."
+msgstr ""
+"D'abord ces orcs crasseux, maintenant ces choses dégoûtantes. Quelle "
+"pagaille."
+
+msgid "Galatiel"
+msgstr "Galatiel"
+
+msgid "Green Mage"
+msgstr "Mage Arboricole"
+
+msgid ""
+"Green Magi are rumored to exist by the peasants, who assume that they are "
+"Magi in training that seek solitude to improve their skill. Nothing could be "
+"further from the truth. They are experienced, woodwise, and elusive."
+msgstr ""
+"Les rumeurs qui circulent chez les paysans suggèrent que les Mages "
+"Arboricoles sont des mages en formation qui cherchent la solitude afin "
+"d’améliorer leurs compétences. Rien n'est plus faux. Ils possèdent une "
+"grande expérience de la forêt, et restent insaisissables."
+
+msgid ""
+"Hahaha. Now that those two bags of bones are out of the way, I'll take that "
+"Ruby myself and rule this city!"
+msgstr ""
+"Hahaha. Maintenant que ces deux sacs d'os sont hors d'état de nuire, je vais "
+"m'emparer de ce rubis et asservir cette ville!"
+
+msgid "Hello, and welcome to my library."
+msgstr "Bonjour, et bienvenue dans ma bibliothèque."
+
+msgid "Historian of Wesnoth"
+msgstr "Historien de Wesnoth"
+
+msgid "How can this be? How can a begger offer me what I desire?"
+msgstr ""
+"Comment est-ce possible? Comment toi un mendiant peut-il m'offrir ce que je "
+"désire?"
+
+msgid ""
+"I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset "
+"about. Animate the trees, but do not bind them to your will, for these trees "
+"have wills of their own."
+msgstr ""
+"Je m'appelle Elilmaldur-Rithrandal. Prend ce sortilège qui te pèse tant sur "
+"le coeur. Anime les arbres, mais ne les lie pas à ta volonté, car ils "
+"disposent d'une volonté propre."
+
+msgid ""
+"I do tire of constantly protecting the trees. Would that they could protect "
+"themselves. Would that they could sing and dance with me."
+msgstr ""
+"Je suis fatiguée de devoir constamment protéger les arbres. J'aimerais "
+"qu'ils parviennent à se défendre tout seuls. J'aimerais qu'ils puissent "
+"chanter et danser avec moi."
+
+msgid "I have a feeling I wasn't supposed to come this way."
+msgstr "J'ai l'impression que je n'étais pas censée arriver par là."
+
+msgid ""
+"I have sought forbidden knowledge, the deep secrets of the fabric of "
+"reality, and for that I am shunned. I offer you now some of what I have "
+"found. May it serve you better than it has served me."
+msgstr ""
+"J'ai cherché un acquérir des savoirs interdits, les plus profonds secrets de "
+"la structure de la réalité, et pour cela j'ai été exclu du monde civilisé. "
+"Je vous offre maintenant une partie de mes découvertes. En éspèrant qu'elles "
+"se révèlent plus utiles à vous qu'à moi."
+
+msgid "I spy humans."
+msgstr "J’aperçois des humains."
+
+msgid "I think we are safe now."
+msgstr "Je pense que nous sommes en sécurité maintenant."
+
+msgid "I'll take that Ruby myself, thank you."
+msgstr "Je prendrai ce Rubis pour moi-même, merci."
+
+msgid "I'll try, sir."
+msgstr "Je vais essayer, monseigneur."
+
+msgid "I'm sorry but that death changes history too much for me."
+msgstr ""
+"Je suis désolé, mais en ce qui me concerne, cette mort change l'Histoire "
+"dans une trop large mesure."
+
+msgid ""
+"I've come to the pinnacles observatory to watch the stars, and--Oh bother."
+msgstr ""
+"Je suis venue à l'observatoire des pinacles pour regarder les étoiles, et--"
+"Oh malheur!"
+
+msgid "Isar"
+msgstr "Isar"
+
+msgid ""
+"Just some elves. Oh, and a crazy mage who is all upset about some trees. "
+"What does it matter?"
+msgstr ""
+"Juste quelques elfes. Oh, et une magicienne complètement folle qui a l'air "
+"toute pertubée à cause d'une histoire d'arbres. Qu'est-ce-que ça peut bien "
+"faire?"
+
+msgid "Lich-Lord Caror"
+msgstr "Seigneur-liche Caror"
+
+msgid "Lich-Lord Jevyan"
+msgstr "Seigneur-liche Jevyan"
+
+msgid "Lich-Lord Lenvan"
+msgstr "Seigneur-liche Lenvan"
+
+msgid "Life Mage"
+msgstr "Mage de vie"
+
+msgid ""
+"Life Magi pass themselves off as Green Magi, and so are altogether unknown "
+"by the people at large. Even the best scholars have no idea of their "
+"abilities."
+msgstr ""
+"Les Mages de Vie se font passer pour des Mages Arboricoles, et sont donc "
+"tout à fait inconnus du commun des mortels. Même les meilleurs chercheurs "
+"n'ont aucune idée de leurs capacités."
+
+msgid "Londerleona"
+msgstr "Londerleona"
+
+msgid "Look out! The ceiling is collapsing."
+msgstr "Attention! La voute est en train de s'effondrer!"
+
+msgid "Look out, the water's rising!"
+msgstr "Attention, l'eau monte!"
+
+msgid ""
+"Men kept at the forest. Londerleona would chase them away. They never did "
+"get to the center, but kept widdling away at the sides."
+msgstr ""
+"Les hommes persistèrent à vouloir rester dans la forêt, mais Londerleona sut "
+"régulièrement les chasser. Ils n'atteignirent jamais le coeur de la forêt, "
+"mais continuèrent à tenter de s'installer à son orée."
+
+msgid "Move my children. Avenge yourselves for your brethren."
+msgstr "Mettez vous en mouvement mes enfants. Vengez-vous pour vos frères."
+
+msgid ""
+"Next time men came to the forest, they came in great numbers, to chop it "
+"down."
+msgstr ""
+"Les hommes revinrent dans la forêt, en grand nombre, pour en abattre tous "
+"les arbres."
+
+msgid ""
+"No it isn't. The portal is unphasing. You better scram or there won't be so "
+"much as a body left for me to raise."
+msgstr ""
+"Non, il n'en est rien. Le portail n’est plus en phase. Tu ferais mieux de "
+"filer, ou il ne restera même pas assez de toi pour que je puisse ranimer ton "
+"cadavre."
+
+msgid "No, its Mine!"
+msgstr "Non, il est à moi!"
+
+msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
+msgstr ""
+"Maintenant que Jevyan est mort, je vais m'emparer de ce rubis et asservir "
+"cette ville!"
+
+msgid "Now that that usurper is dead, I'll deal with you!"
+msgstr "Maintenant que cet usurpateur est mort, je vais m'occuper de vous!"
+
+msgid "Now, if you had teleport ability, that would be a window."
+msgstr ""
+"Maintenant, si vous aviez la capacité de téléportation, ce serait une option."
+
+msgid "Oh my! They are so many. Whatever shall I do?"
+msgstr "Oh mon dieu! Ils sont si nombreux. Que pourrais-je faire ?"
+
+msgid "Oh! The old begger. I thought I was alone. *blush*"
+msgstr "Oh! Le vieux mendiant. Je pensais que j'étais seule. *elle rougit*"
+
+msgid "Oh, he dropped this."
+msgstr "Tiens, il a laissé tomber quelque chose."
+
+msgid ""
+"One evening shortly thereafter, Londerleona climbed onto the high plain of "
+"pinnacles to observe the stars."
+msgstr ""
+"Quelques temps après, un soir, Londerleona grimpa sur les hautes plaines des "
+"pinacles pour observer les étoiles."
+
+msgid "Ooh. A scroll."
+msgstr "Ooh. Un parchemin."
+
+msgid "Oracle"
+msgstr "Oracle"
+
+msgid "Owhh"
+msgstr "Owhh"
+
+msgid "Pixie"
+msgstr "Lutin"
+
+msgid "Pixies"
+msgstr "Lutins"
+
+msgid "Potion of Healing"
+msgstr "Potion de guérison"
+
+msgid "Provides a nice ambience, don't you think?"
+msgstr "L'atmosphère est sympathique, vous ne pensez pas?"
+
+msgid ""
+"Right now, the world is young, and written history is not very long. As time "
+"passes my library will grow larger. At the last, I expect to have a few "
+"square miles of library, all nicely cataloged."
+msgstr ""
+"En cette heure, le monde est bien jeune, et le livre qui décrit son histoire "
+"n'est pas très épais. Ma bibliothèque grandira avec le temps. En fin de "
+"compte, je compte avoir quelques kilomètres mètres carrés de rayonnages, "
+"tous biens catalogués."
+
+msgid "Ruby of Fire"
+msgstr "Rubis de Feu"
+
+msgid "She has killed Lenvan and taken the Ruby of Fire!"
+msgstr "Elle a tué Lenvan et pris le Rubis de Feu!"
+
+msgid "She was right, she shouldn't have come this way."
+msgstr "Elle avait raison, elle n'était pas censée arriver par là."
+
+msgid "Shudder. We best take his advise. I think the east passage is clear."
+msgstr ""
+"Brrr... Je crois que nous devrions suivre son conseil. Je pense que le "
+"passage à l'est est dégagé."
+
+msgid "Sky at last! An look, a forest!"
+msgstr "Le ciel, enfin! Regardez, une forêt!"
+
+msgid ""
+"Something has happened in the catacombs. Black magic has opened up some kind "
+"of portal. Go now and see what you can do about it."
+msgstr ""
+"Il s'est passé quelque chose dans les catacombes. Quelqu'un s'est servi de "
+"la magie noire pour ouvrir une sorte de portail. Va voir ce que tu peux "
+"faire."
+
+msgid ""
+"Somewhere in the green isle (history has forgotten exactly where), a strange "
+"order of Magi had set up operations in some forest. Wood was needed for the "
+"construction of a nearby town, and so a team was sent from Clearwater Port..."
+msgstr ""
+"Quelque part sur l'île verte (l'histoire a oublié où exactement), un ordre "
+"de mages étrange s’était installé dans la forêt. Du bois s'avéra nécessaire "
+"pour la construction d'une ville à proximité, et  une équipe fût envoyée du "
+"port d'Aigueclaire."
+
+msgid "Somewhere on the Green Isle"
+msgstr "Quelque part sur l'île Verte"
+
+msgid "Story of Wose"
+msgstr "Histoire des Wose"
+
+msgid "Telcontar"
+msgstr "Telcontar"
+
+msgid "That didn't work. Somebody will have to go inside and close it."
+msgstr ""
+"Cela n'a pas fonctionné. Quelqu'un va devoir pénétrer à l'intérieur et le "
+"fermer."
+
+msgid ""
+"That sounded like it came from the far end of the cave. We better hurry and "
+"find out what it is."
+msgstr ""
+"Ce bruit avait l'air de venir du fond de la caverne. Nous devrions nous "
+"dépêcher de découvrir de quoi il s'agit."
+
+msgid "That sounds terrible."
+msgstr "Quel bruit horrible."
+
+msgid "That's a good idea. In you gow now, and close that portal."
+msgstr "C'est une bonne idée. Aller hop, à l'intérieur, et ferme ce portail."
+
+msgid "The Story of the Wose"
+msgstr "L'histoire des Wose"
+
+msgid "The Trees Move"
+msgstr "Les Arbres Bougent"
+
+msgid "The Tunnel"
+msgstr "Le tunnel"
+
+msgid ""
+"The mighty Lich Lords were once rulers of powerful cities in the western "
+"contanent. The armies they command are experienced, and the lords themselves "
+"are truly terrible."
+msgstr ""
+"Les puissants seigneurs liche étaient autrefois souverains de villes "
+"puissantes dans le continent ouest. Les armées qu'ils commandent sont "
+"expérimentés, et les seigneurs eux-mêmes sont vraiment terribles."
+
+msgid ""
+"The scroll was in fact a description of the spell that would raise corpses "
+"to fight for a dark sorcerer."
+msgstr ""
+"Le manuscrit s'avéra être la description du sort qui anime les cadavres pour "
+"en faire des soldats au service d'un sorcier des ténèbres."
+
+msgid ""
+"The spell constisted of two pieces. A piece to animate a corpse and a piece "
+"to bind the corpse to the will of the sorcerer."
+msgstr ""
+"Le sort était constitué de deux parties. Un fragment pour ranimer un cadavre "
+"et l'autre pour le lier à la volonté du sorcier."
+
+msgid "The temple!"
+msgstr "Le temple!"
+
+msgid "The water rose, cutting off our escape!"
+msgstr "Les eaux sont montées, et coupent notre retraite!"
+
+msgid ""
+"The wood mage belongs to a very different order of magi, more akin to the "
+"undead than the lawful mages. Their power is mysterious and less understood "
+"than even the undead."
+msgstr ""
+"Le Mage des bois appartient à un ordre de  mages très différent, plus proche "
+"de la nécromancie que les mages du Bien. Leur pouvoir est mystérieux et "
+"encore moins bien compris que les morts-vivants eux-mêmes."
+
+msgid "There is a way, you know. A way to achieve your heart's desire."
+msgstr ""
+"Il y a un moyen, vous savez. Un moyen de réaliser ce que votre cœur désire."
+
+msgid ""
+"These woses are able to command forest plants such as vines and creepers to "
+"hinder their enemies."
+msgstr ""
+"Ces woses sont en mesure de contrôler des plantes forestières telles que des "
+"plantes grimpantes et des lianes pour gêner leurs ennemis."
+
+msgid ""
+"These, my friend, are woses. But where am I? Surely this is not the Green "
+"Isle. We only just came a generation ago, but we should surely know if there "
+"are elves amoung us."
+msgstr ""
+"Ceux-ci, mon ami, sont des woses. Mais où suis-je? Ce n'est certainement pas "
+"l'Ïle Verte. Nous n'y sommes arrivés que depuis une génération, mais nous y "
+"aurions surement remarqué la présence des elfes."
+
+msgid ""
+"They've come. Humans from Clearwater Port. They've come to chop down our "
+"forest."
+msgstr ""
+"Ils sont venus. Des hommes du port d'Aigueclaire. Ils sont venus pour "
+"abattre notre forêt."
+
+msgid ""
+"This looks like an Ancient Lich but something's different about it, and for "
+"some reason you're not afraid of it."
+msgstr ""
+"Cette créature ressemble à une Liche Ancienne, mais avec quelque chose de "
+"différent, et pour une raison indéfinissable vous n'avez pas peur d'elle."
+
+msgid "This unit is given the power to heal its friends."
+msgstr "Cette unité a le pouvoir de guérir ses alliés."
+
+msgid "This unit is given the power to heal itself and its friends."
+msgstr "Cette unité a le pouvoir de se guérir elle-même et ses alliés."
+
+msgid "To read a book, play another campaign."
+msgstr "Si vous désirez lire l'un des livres, commencez une autre campagne."
+
+msgid ""
+"Today I want to tell you another story, a mere footnote in the history books "
+"if it is even remembered at all."
+msgstr ""
+"Aujourd'hui, j'aimerais vous raconter une nouvelle histoire, une simple "
+"anecdote dans les livres d'histoire, si jamais elle y figure."
+
+msgid ""
+"Trying to get rid of me, eh? I'll go in there and close the portal, but when "
+"I return, I will punish you properly for this."
+msgstr ""
+"Tu essayes de te débarrasser de moi, hein? Je vais y aller et fermer le "
+"portail, mais à mon retour, je te punirai comme il se doit."
+
+msgid "Undead Avatar"
+msgstr "Avatar mort-vivant"
+
+msgid "Village"
+msgstr "Village"
+
+msgid "We're all gonna die."
+msgstr "Nous allons tous mourir."
+
+msgid ""
+"We've flown a long way without a proper meal, now let's have some dinner!"
+msgstr ""
+"Nous avons effectué un long chemin sans rien manger, maintenant nous allons "
+"faire un bon repas!"
+
+msgid ""
+"Welcome to our forest. May it shelter you and be your home as it is ours. "
+"But come, tell us your tale."
+msgstr ""
+"Bienvenue dans notre forêt. Que notre maison deviennent la votre. Mais "
+"allons, racontez-nous votre histoire."
+
+msgid ""
+"Well now you've really done it! All that I have taught you, all that we "
+"know, has changed."
+msgstr ""
+"Eh bien bravo! Tout ce que je vous ai enseigné, tout ce que nous pensions "
+"savoir, tout a changé."
+
+msgid ""
+"Well, that's certainally not how the story is supposed to go. What's this? "
+"You have written into the book of history and it has come to pass just as "
+"you wrote it!"
+msgstr ""
+"Eh bien, ce n’est certainement pas comment ça que l'histoire est censée se "
+"dérouler. Qu'est-ce que c'est que ça? Vous avez écrit quelque chose dans le "
+"livre et les évènements se sont déroulés exactement comme vous l'avez écrit!"
+
+msgid "What do I want of forbidden knowledge. Go away now. Pleease."
+msgstr ""
+"Qu'est-ce que je pourrais bien faire avec des connaissance interdite? Va-"
+"t'en maintenant. Je t'en prie."
+
+msgid "What was that?"
+msgstr "Qu'est-ce que c'était que ça?"
+
+msgid "What were you expecting, the Ruby of Fire?"
+msgstr "Qu'attendiez-vous, le Rubis de Feu?"
+
+msgid "What's this? Looks like that terror left me a worthy gift."
+msgstr ""
+"Qu'est-ce que c'est? On dirait que cette terreur m'a laissé un cadeau de "
+"valeur."
+
+msgid ""
+"What? Destroy our beautiful forest for your stupid houses! This will not "
+"stand."
+msgstr ""
+"Quoi ? Détruire notre belle forêt pour vos stupides maisons! Nous ne le "
+"permettrons pas."
+
+msgid "Who spoke?"
+msgstr "Qui a parlé?"
+
+msgid "Wood Mage"
+msgstr "Mage des bois"
+
+msgid "Wose"
+msgstr "Wose"
+
+msgid "Woses"
+msgstr "Woses"
+
+msgid "Yes, we must. We have houses and docks to build."
+msgstr "Oui, nous le devons. Nous avons des maisons et des quais à construire."
+
+msgid "Yipe!"
+msgstr "Aïe!"
+
+msgid "Yipe! Fire blood!"
+msgstr "Aïe! Le souffle ardent!"
+
+msgid ""
+"You are a long way from the sea. Perhaps you should have a word with the "
+"Lady of the Wood. You seem to have quite a tale to tell."
+msgstr ""
+"Vous êtes bien loin de la mer.  Peut-être vous devriez parler à la Dame des "
+"Bois. Il semblerait que vous ayez une sacrée histoire à raconter."
+
+msgid ""
+"You are the first besides trolls to come out of that accursed troll hole in "
+"years. But what are these?"
+msgstr ""
+"Sans compter les trolls, vous êtes les premiers à sortir de ce maudit trou "
+"depuis des années. Et ceux-là, qui sont ils?"
+
+msgid "You dare attack me!"
+msgstr "Vous osez m'attaquer!"
+
+msgid ""
+"You infernal idiot. I warned you not to spy on me. This portal stuff is "
+"sensitive."
+msgstr ""
+"Sombre crétin! Je t'avais prévenu de ne pas m'espionner. Cette histoire de "
+"portail est délicate."
+
+msgid "You made the portal, you close it. I won't!"
+msgstr ""
+"Tu as ouvert le portail, tu le fermes. Hors de question pour moi d'y aller!"
+
+msgid ""
+"You've been spying on the orcs too, from what I hear in this portal. Now "
+"somebody's going to have to clean up after this mess."
+msgstr ""
+"Tu as également espionné les orcs, d'après ce que j'entends grace au "
+"portail. Maintenant, quelqu'un va devoir nettoyer ce gâchis."
+
+msgid "[way too loud] Must they really?"
+msgstr "[D'une voix tonitruante] Devez-vous vraiment abattre nos arbres ?"
+
+msgid ""
+"[whispers] Perhaps you could conjer up a distraction from the mud like you "
+"did for the harvest festival."
+msgstr ""
+"[chuchotant] Peut-être pourriez-vous invoquer des créatures de boue pour "
+"faire diversion, comme vous l'aviez fait pour la fête de la moisson."
+
+msgid "chill tempest"
+msgstr "tempête de froid"
+
+msgid "crush"
+msgstr "écrasement"
+
+msgid "elm"
+msgstr "orme"
+
+msgid "entangle"
+msgstr "enchevêtrement"
+
+msgid "faerie touch"
+msgstr "doigt de fée"
+
+msgid "fast in water, +10% fire damage"
+msgstr "rapide dans l'eau, +10% dégâts de feu"
+
+msgid "lightbeam"
+msgstr "rayon de lumière"
+
+msgid "missile"
+msgstr "projectile magique"
+
+msgid "oak"
+msgstr "chêne"
+
+msgid "pine"
+msgstr "Pin"
+
+msgid "redwood"
+msgstr "séquoia"
+
+msgid "shadow wave"
+msgstr "onde obscure"
+
+msgid "staff"
+msgstr "bâton"
+
+msgid "touch"
+msgstr "toucher"
+
+msgid "willow"
+msgstr "saule"

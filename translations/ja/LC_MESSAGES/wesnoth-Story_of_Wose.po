@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-10-03 13:08+0200\n"
+"PO-Revision-Date: 2010-08-04 21:11+0900\n"
+"Last-Translator: clearpotion <clearpotion+fantasy@gmail.com>\n"
+"Language-Team: none\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Bookmarks: 52,80,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-Basepath: C:\\Documents and Settings\\LOGINNAME\\My Documents\\My "
+"Games\\Wesnoth1.8\\data\\add-ons\n"
+
+msgid ""
+"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
+"magenta)=Hard"
+msgstr ""
+"*&units/woses/wose.png~TC(1,magenta)=普通;&units/woses/wose-elder.png~TC(1,"
+"magenta)=難しい"
+
+msgid "-10% blade damage"
+msgstr "-10% 斬撃ダメージ低減"
+
+msgid "-10% fire damage"
+msgstr "-10% 火炎ダメージ低減"
+
+msgid "-10% impact damage"
+msgstr "-10% 打撃ダメージ低減"
+
+msgid "-10% pierce & cold damage"
+msgstr "-10% 貫通と冷気ダメージ低減"
+
+msgid "Aiee, so soon to die again!"
+msgstr "アイー！こんなに早くまた死ぬとは"
+
+msgid "All right, I'll try to close it. Brace yourself."
+msgstr "分かった、閉めてこよう。 気を引き締めておけ。"
+
+msgid ""
+"All right, what happened here? This first portal was supposed to go two "
+"miles, not to the east continent."
+msgstr ""
+"もう良い。ここで何が起きたのだ？ この最初の門まで２マイル程だ。東大陸にではな"
+"くな。"
+
+msgid ""
+"Allow me to introduce myself. I am the historian of Wesnoth. All that "
+"happens, I see and record. It is all here, everything of note."
+msgstr ""
+"自己紹介させてください。 私は Wesnoth の歴史家です。 すべての出来事を私は見聞"
+"し、記録しています。そのすべてのノートはここにあります。"
+
+msgid ""
+"And so the story was told of how the wood magi awakened the trees and how "
+"they were the first humans to set foot upon the great continent. Many years "
+"later Elilmaldur-Rithrandal would play a key part in the foundation of a "
+"great nation of humans upon this continent. The wood magi, elusive as always "
+"and distrustful of other humans, would take no part again in history for "
+"more than a thousand years."
+msgstr ""
+"そして、森魔術師がどのように木を呼び起こしたか、そして彼らが巨大な大陸の上に"
+"どのようにして足を踏み入れたかについて話されました。 何年もの後に Elilmaldur "
+"- Rithrandal はこの大陸の人々の強大な国の礎として重要な役割を果たすでしょ"
+"う。 いつも通りとらえ所がなく、他の人を信用しない森魔術師は千年以上の間再び歴"
+"史に現れないことでしょう。"
+
+msgid "Begger"
+msgstr "Begger"
+
+msgid ""
+"But as with all such footnotes, the resulting effect on this history of "
+"Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
+"No?"
+msgstr ""
+"けれどもすべてのそんな脚注と同じように、 Wesnoth 史の顛末に対する効果は非常に"
+"大きなものです。学校でバタフライ効果を教わりませんでしたか？ えっ、教わってな"
+"いの？"
+
+msgid "Caror you idiot! Who else have you been spying on this time?"
+msgstr "Caror この愚か者め！ お前は今まで他に誰を調べていたのだ？"
+
+msgid "Cave"
+msgstr "洞窟"
+
+msgid "Child, do not despair. There is yet hope."
+msgstr "お嬢よ、絶望してはならぬ。 望みはまだある。"
+
+msgid ""
+"Closely related to the fairies are the pixies, which really are about three "
+"inches tall. They have a particularly whimisical attitude and a protective "
+"nature. As such, the fairies, and others, find them useful as messengers."
+msgstr ""
+"妖精に密接に関係があるのがピクシーです。身長はおよそ３インチ程度です。 彼らは"
+"特に移り気な態度と自然保護の性質を持っています。 そんな妖精とその仲間たちは使"
+"者として有用であると気づくことでしょう。"
+
+msgid "Come on, into the catacombs"
+msgstr "さあ早く、地下墓地の中に。"
+
+msgid "Demilich"
+msgstr "Demilich"
+
+msgid "Don't worry about me. I will wake up more trees and crush these humans."
+msgstr ""
+"私のことは心配しないで良い。私はもっと多くの木々を目覚めさせ、これらの人間共"
+"を押し潰してやろう。"
+
+msgid "Epilogue"
+msgstr "Epilogue"
+
+msgid "Ewwww"
+msgstr "イィィィィ"
+
+msgid "Feel free to look around. Read any book. Just don't wreck things."
+msgstr ""
+"お気軽に見て回って下さい。 どんな本でも読んでいいですよ。 ただ破損させないで"
+"下さい。"
+
+msgid "Fine, I'll kill you too."
+msgstr "よろしい。私もお前を殺すとしよう。"
+
+msgid "First these filthy orcs, now these nasty things. What a mess."
+msgstr "最初に汚いオーク達、今不快なもの達まで。 もう無茶苦茶よ。"
+
+msgid "Galatiel"
+msgstr "Galatiel"
+
+msgid "Green Mage"
+msgstr "緑魔術師"
+
+msgid ""
+"Green Magi are rumored to exist by the peasants, who assume that they are "
+"Magi in training that seek solitude to improve their skill. Nothing could be "
+"further from the truth. They are experienced, woodwise, and elusive."
+msgstr ""
+"緑魔術師は農民達の間では存在すると噂されています。その噂によれば、彼らは孤独"
+"を探し、技能を向上させる為の修練を積んでいる魔術師であると言われています。 何"
+"も真実からかけ離れていたわけではありませんでした。 彼らは経験豊かで森林知識が"
+"豊富で、さらに捕えにくいのです。"
+
+msgid ""
+"Hahaha. Now that those two bags of bones are out of the way, I'll take that "
+"Ruby myself and rule this city!"
+msgstr ""
+"ハッハッハ。２匹の骨と皮だけの奴めがいなくなった。ルビーをとって、この都市を"
+"支配しよう！"
+
+msgid "Hello, and welcome to my library."
+msgstr "いらっしゃい、私の図書館にようこそ。"
+
+msgid "Historian of Wesnoth"
+msgstr "Wesnoth の歴史家"
+
+msgid "How can this be? How can a begger offer me what I desire?"
+msgstr ""
+"どうすればそんな事ができるの？ Begger がどうすれば、私の望むものを提供できる"
+"というのかしら？"
+
+msgid ""
+"I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset "
+"about. Animate the trees, but do not bind them to your will, for these trees "
+"have wills of their own."
+msgstr ""
+"我は自身を Elilmaldur - Rithrandal と呼ぶ者。そなたが動揺しているその呪文を"
+"とって木々を動かすのだ。ただしそなたの意志に木々を縛ってはならぬ。木々は自ら"
+"の意志を持っておる。"
+
+msgid ""
+"I do tire of constantly protecting the trees. Would that they could protect "
+"themselves. Would that they could sing and dance with me."
+msgstr ""
+"絶えず木々を守り続けることがとても嫌になってきたわ。 木々が自分で自分を守るこ"
+"とができるのであれば。 木々が歌って、そして私と踊ることができるのであれば"
+"ねぇ。"
+
+msgid "I have a feeling I wasn't supposed to come this way."
+msgstr "こっちの道に来るはずじゃなかったという感じがするな。"
+
+msgid ""
+"I have sought forbidden knowledge, the deep secrets of the fabric of "
+"reality, and for that I am shunned. I offer you now some of what I have "
+"found. May it serve you better than it has served me."
+msgstr ""
+"私は禁じられた知識を探索していたのです。現実の構造の奥底にある秘密をね。そし"
+"てそれ故私は人々から避けらるようになりました。 私が見いだしたものをいくつかあ"
+"なたに提供しましょう。 それが私に仕えたよりも、あなたにより良く仕えますよう"
+"に。"
+
+msgid "I spy humans."
+msgstr "人間を見つけたぞ。"
+
+msgid "I think we are safe now."
+msgstr "どうやらひとまず安心のようね。"
+
+msgid "I'll take that Ruby myself, thank you."
+msgstr "私がそのルビーを取ろう。ありがとう。"
+
+msgid "I'll try, sir."
+msgstr "やってみますわ。"
+
+msgid "I'm sorry but that death changes history too much for me."
+msgstr ""
+"お気の毒なことですです。その死は私の過去をあまりにも大きく変えてしまった。"
+
+msgid ""
+"I've come to the pinnacles observatory to watch the stars, and--Oh bother."
+msgstr ""
+"私は星を見るために頂上観測所にやって来ました。それで――ああっ、厄介者が。"
+
+msgid "Isar"
+msgstr "Isar"
+
+msgid ""
+"Just some elves. Oh, and a crazy mage who is all upset about some trees. "
+"What does it matter?"
+msgstr ""
+"エルフを何人かだけだ。 おお、そして木々について取り乱している頭がおかしい魔術"
+"師も。 それがどうしたというのだ？"
+
+msgid "Lich-Lord Caror"
+msgstr "Lich-Lord Caror"
+
+msgid "Lich-Lord Jevyan"
+msgstr "Lich-Lord Jevyan"
+
+msgid "Lich-Lord Lenvan"
+msgstr "Lich-Lord Lenvan"
+
+msgid "Life Mage"
+msgstr "Life Mage"
+
+msgid ""
+"Life Magi pass themselves off as Green Magi, and so are altogether unknown "
+"by the people at large. Even the best scholars have no idea of their "
+"abilities."
+msgstr ""
+"Life Magiは緑魔術師 のように消えます。その為多くの人々には全く未知です。 最も"
+"博識な学者でさえも彼らの能力については見当もつきません。"
+
+msgid "Londerleona"
+msgstr "Londerleona"
+
+msgid "Look out! The ceiling is collapsing."
+msgstr "危ない！ 天井が崩れる。"
+
+msgid "Look out, the water's rising!"
+msgstr "危ない、水位が上がってきたわ！"
+
+msgid ""
+"Men kept at the forest. Londerleona would chase them away. They never did "
+"get to the center, but kept widdling away at the sides."
+msgstr ""
+"男達は森に来続けました。 Londerleona は彼らを追い払おうとしました。 彼らは中"
+"央には来ようとはしませんでしたが、離れた端の方には来続けました。"
+
+msgid "Move my children. Avenge yourselves for your brethren."
+msgstr "我が子供たちを動かすのだ。そなたの盟友のために復讐せよ。"
+
+msgid ""
+"Next time men came to the forest, they came in great numbers, to chop it "
+"down."
+msgstr "次に男たちが森に来たとき、彼らは木を切るために、大勢で来ました。"
+
+msgid ""
+"No it isn't. The portal is unphasing. You better scram or there won't be so "
+"much as a body left for me to raise."
+msgstr ""
+"そうではない。 門が逆位相になっている。 お前たちは逃げた方が良い。ここには甦"
+"らせる為の死体さえも、それほど多くは残っていないようだ。"
+
+msgid "No, its Mine!"
+msgstr "違う、それは私の物だ！"
+
+msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
+msgstr ""
+"Jevyan が死んでいる今、私はそのルビーをとって、そしてこの都市を支配しよう！"
+
+msgid "Now that that usurper is dead, I'll deal with you!"
+msgstr "さて横領した者が死んだわけだ。お前と交渉するとしよう！"
+
+msgid "Now, if you had teleport ability, that would be a window."
+msgstr "今、もしあなたに瞬間移動能力があるなら、それが出入り口になるでしょう。"
+
+msgid "Oh my! They are so many. Whatever shall I do?"
+msgstr "なんてこと！  彼らはすごく多いわ。 私は一体どうしたらいいの？"
+
+msgid "Oh! The old begger. I thought I was alone. *blush*"
+msgstr "あら！ Begger。 私一人だと思ってたわ (赤面) "
+
+msgid "Oh, he dropped this."
+msgstr "おやっ、彼はこれを落としていったわ。"
+
+msgid ""
+"One evening shortly thereafter, Londerleona climbed onto the high plain of "
+"pinnacles to observe the stars."
+msgstr ""
+"その後まもないある晩、 Londerleona は星を観るために山の頂上にある平原に登りま"
+"した。"
+
+msgid "Ooh. A scroll."
+msgstr "おお、巻物だわ。"
+
+msgid "Oracle"
+msgstr "神託"
+
+msgid "Owhh"
+msgstr "オウ"
+
+msgid "Pixie"
+msgstr "ピクシー"
+
+msgid "Pixies"
+msgstr "ピクシー"
+
+msgid "Potion of Healing"
+msgstr "回復の水薬"
+
+msgid "Provides a nice ambience, don't you think?"
+msgstr "すてきな雰囲気をかもし出している。そう思いませんか？"
+
+msgid ""
+"Right now, the world is young, and written history is not very long. As time "
+"passes my library will grow larger. At the last, I expect to have a few "
+"square miles of library, all nicely cataloged."
+msgstr ""
+"今現在、世界は若く、そして記述された歴史はそれほど長くありません。 時が過ぎる"
+"につれ、私の蔵書はより大きくなるでしょう。 最終的には、私は数平方マイルの蔵書"
+"とその目録すべてを収容するのを見込んでいます。"
+
+msgid "Ruby of Fire"
+msgstr "炎のルビー"
+
+msgid "She has killed Lenvan and taken the Ruby of Fire!"
+msgstr "彼女が Lenvan を殺して、そして炎のルビーを取った！"
+
+msgid "She was right, she shouldn't have come this way."
+msgstr "彼女は正しかった。彼女はこちらに来るべきではなかった。"
+
+msgid "Shudder. We best take his advise. I think the east passage is clear."
+msgstr "地響きが。 彼の助言に従いましょう。 東通路なら空いていると思うわ。"
+
+msgid "Sky at last! An look, a forest!"
+msgstr "ようやく空が見えたわ。見て、森よ！"
+
+msgid ""
+"Something has happened in the catacombs. Black magic has opened up some kind "
+"of portal. Go now and see what you can do about it."
+msgstr ""
+"何かが地下墓地で起きた。 黒魔術によって何かの門が開いたようじゃ。すぐさま行っ"
+"て、何の対処ができるか見てくるのだ。"
+
+msgid ""
+"Somewhere in the green isle (history has forgotten exactly where), a strange "
+"order of Magi had set up operations in some forest. Wood was needed for the "
+"construction of a nearby town, and so a team was sent from Clearwater Port..."
+msgstr ""
+"グリーン島のどこか（歴史上の正確な所は忘れてしまいましたが）で 、変わった階級"
+"の魔術師がいくつかの森でとある作戦をしていました。木材が近くの町の建設のため"
+"に必要でした。その為のチームがクリアウォーター港から送られてきて……。"
+
+msgid "Somewhere on the Green Isle"
+msgstr "グリーン島のどこかで"
+
+msgid "Story of Wose"
+msgstr "ウーズ物語"
+
+msgid "Telcontar"
+msgstr "Telcontar"
+
+msgid "That didn't work. Somebody will have to go inside and close it."
+msgstr "うまくいかんな。 誰かが内側に入って、閉じなければならないようだ。"
+
+msgid ""
+"That sounded like it came from the far end of the cave. We better hurry and "
+"find out what it is."
+msgstr ""
+"あれは遠い洞窟の終点から来たような音がしたわ。 急いでそれが何なのか調べた方が"
+"いいわ。"
+
+msgid "That sounds terrible."
+msgstr "なんだか酷そうね。"
+
+msgid "That's a good idea. In you gow now, and close that portal."
+msgstr "良い考えだ。 お前が今すぐ行って、門を閉じて来い。"
+
+msgid "The Story of the Wose"
+msgstr "ウーズ物語"
+
+msgid "The Trees Move"
+msgstr "The Trees Move"
+
+msgid "The Tunnel"
+msgstr "The Tunnel"
+
+msgid ""
+"The mighty Lich Lords were once rulers of powerful cities in the western "
+"contanent. The armies they command are experienced, and the lords themselves "
+"are truly terrible."
+msgstr ""
+"力強きLich Lordはかつて西の大陸の強力な都市の支配者でした。 彼らが指揮する軍"
+"は経験豊かです、そしてLich Lord自身も本当に恐ろしいものです。"
+
+msgid ""
+"The scroll was in fact a description of the spell that would raise corpses "
+"to fight for a dark sorcerer."
+msgstr "巻き物は実際には暗黒魔術師の為に戦う、死体を甦らせる呪文の記述でした。"
+
+msgid ""
+"The spell constisted of two pieces. A piece to animate a corpse and a piece "
+"to bind the corpse to the will of the sorcerer."
+msgstr ""
+"呪文は２つの部分からなっていました。死体を動かすものと魔術師の意志に死体を縛"
+"るものとに。"
+
+msgid "The temple!"
+msgstr "寺院が！"
+
+msgid "The water rose, cutting off our escape!"
+msgstr "水位が上がって、退路を断たれてしまったわ！"
+
+msgid ""
+"The wood mage belongs to a very different order of magi, more akin to the "
+"undead than the lawful mages. Their power is mysterious and less understood "
+"than even the undead."
+msgstr ""
+"森魔術師は魔術師の非常に独特な階級に属します。森魔術師は秩序の魔術師よりアン"
+"デッドに類似しています。彼らの力はアンデッドでさえ神秘的で理解されません。"
+
+msgid "There is a way, you know. A way to achieve your heart's desire."
+msgstr ""
+"いいですか、方法はあるのです。 あなたの心の中にある願望を成就させる方法が。"
+
+msgid ""
+"These woses are able to command forest plants such as vines and creepers to "
+"hinder their enemies."
+msgstr ""
+"これらのウーズは、つるとツタのような森林植物に敵を妨げるよう命令することが可"
+"能です。"
+
+msgid ""
+"These, my friend, are woses. But where am I? Surely this is not the Green "
+"Isle. We only just came a generation ago, but we should surely know if there "
+"are elves amoung us."
+msgstr ""
+"こちらは私の友人達のウーズです。 それにしても、ここはどこですか？ グリーン島"
+"ではないのは確かね。私達はほんの一世代前にやってきました。でもエルフたちとご"
+"一緒でしたら良く知っておくべきね。"
+
+msgid ""
+"They've come. Humans from Clearwater Port. They've come to chop down our "
+"forest."
+msgstr ""
+"来たぞ。クリアウォーター港からの人間達だ。俺達の森の木々を切り倒すためにやっ"
+"て来たんだ。"
+
+msgid ""
+"This looks like an Ancient Lich but something's different about it, and for "
+"some reason you're not afraid of it."
+msgstr ""
+"これは古代リッチのように見えます、しかし何かが異なっています。そしていくつか"
+"の理由により恐れる必要はありません。"
+
+msgid "This unit is given the power to heal its friends."
+msgstr "このユニットには味方を回復する力が与えられます。"
+
+msgid "This unit is given the power to heal itself and its friends."
+msgstr "このユニットには自分と味方を回復する力が与えられます。"
+
+msgid "To read a book, play another campaign."
+msgstr "本を読むためには、もう１つのキャンペーンをプレーしてくださいね。"
+
+msgid ""
+"Today I want to tell you another story, a mere footnote in the history books "
+"if it is even remembered at all."
+msgstr ""
+"今日はあなたに別のお話がしたいな。それはすべて覚えてたとしても、歴史本の中の"
+"ほんの脚注程度のお話。"
+
+msgid ""
+"Trying to get rid of me, eh? I'll go in there and close the portal, but when "
+"I return, I will punish you properly for this."
+msgstr ""
+"おい、わしを追い払おうとしているのか？ まぁ良い、わしが行って門を閉じてこよ"
+"う。だが戻ったら、お前を相応に罰してやるからな。"
+
+msgid "Undead Avatar"
+msgstr "アンデッドの化身"
+
+msgid "Village"
+msgstr "村"
+
+msgid "We're all gonna die."
+msgstr "全員死にそう。"
+
+msgid ""
+"We've flown a long way without a proper meal, now let's have some dinner!"
+msgstr "我々はまともな食事も摂らず長い間飛んできた。さあ夕食にしよう！"
+
+msgid ""
+"Welcome to our forest. May it shelter you and be your home as it is ours. "
+"But come, tell us your tale."
+msgstr ""
+"私たちの森にようこそ。 森があなた方を保護してくれますように。そしてご自宅にい"
+"るようにくつろいでくださいね。 さあこちらへいらっしゃい、お話を伺いたいわ。"
+
+msgid ""
+"Well now you've really done it! All that I have taught you, all that we "
+"know, has changed."
+msgstr ""
+"えーと、あなたは本当によくやりました！ 私があなたに教えたすべて、私たちが知っ"
+"ているすべて、は変わってしまいました。"
+
+msgid ""
+"Well, that's certainally not how the story is supposed to go. What's this? "
+"You have written into the book of history and it has come to pass just as "
+"you wrote it!"
+msgstr ""
+"えーと、それでは全く物語が進むはずありません。これは何でしょうか？ あなたのこ"
+"とは歴史本の中に書かれました。そして、書かれた事と同じようにそれが起こったの"
+"です！"
+
+msgid "What do I want of forbidden knowledge. Go away now. Pleease."
+msgstr ""
+"私が禁じられた知識の何かを欲しいとでも言うの。どぉ～か、お引取り下さいな。"
+
+msgid "What was that?"
+msgstr "今のは何？"
+
+msgid "What were you expecting, the Ruby of Fire?"
+msgstr "何を期待しているのだ？ 炎のルビーか？"
+
+msgid "What's this? Looks like that terror left me a worthy gift."
+msgstr "これは何？ 恐ろしい外見をした者が、価値の高い贈り物を置いていったわ。"
+
+msgid ""
+"What? Destroy our beautiful forest for your stupid houses! This will not "
+"stand."
+msgstr ""
+"何ですって？ あなた方の馬鹿げた家のために、美しい森を破壊するなんて！ そんな"
+"の我慢できないわ。"
+
+msgid "Who spoke?"
+msgstr "誰なの？"
+
+msgid "Wood Mage"
+msgstr "森魔術師"
+
+msgid "Wose"
+msgstr "ウーズ"
+
+msgid "Woses"
+msgstr "ウーズ"
+
+msgid "Yes, we must. We have houses and docks to build."
+msgstr "そうだ。そのつもりだ。 我々は家やふ頭を作るのだからな。"
+
+msgid "Yipe!"
+msgstr "キャー！"
+
+msgid "Yipe! Fire blood!"
+msgstr "キャー！ 火の血だわ！"
+
+msgid ""
+"You are a long way from the sea. Perhaps you should have a word with the "
+"Lady of the Wood. You seem to have quite a tale to tell."
+msgstr ""
+"あなた方は海からの遠い道のりを来られたのですね。 できましたら森の貴婦人と一言"
+"話をしてください。 素晴らしいお話が伺えそうだ。"
+
+msgid ""
+"You are the first besides trolls to come out of that accursed troll hole in "
+"years. But what are these?"
+msgstr ""
+"あなた方はここ数年来、トロル以外でその憎っくきトロル穴から出てきた最初の方々"
+"です。 それにしてもこれは何ですか？"
+
+msgid "You dare attack me!"
+msgstr "よくもわしを攻撃しおったたな！"
+
+msgid ""
+"You infernal idiot. I warned you not to spy on me. This portal stuff is "
+"sensitive."
+msgstr ""
+"この酷い愚か者めが。 わしのことを嗅ぎまわるなと警告しただろうが。 この門は重"
+"要機密だ。"
+
+msgid "You made the portal, you close it. I won't!"
+msgstr "お前が門を作ったのだ。お前が閉じればいい。俺はやらないぞ！"
+
+msgid ""
+"You've been spying on the orcs too, from what I hear in this portal. Now "
+"somebody's going to have to clean up after this mess."
+msgstr ""
+"お前はオーク共を調べていたな。門から何やら聞こえていたぞ。さて、誰かがこの後"
+"始末をしないとな。"
+
+msgid "[way too loud] Must they really?"
+msgstr "［大声で］本当にそんなことをするつもりなのですかー！？"
+
+msgid ""
+"[whispers] Perhaps you could conjer up a distraction from the mud like you "
+"did for the harvest festival."
+msgstr ""
+"［ささやき］確かあなたは泥から邪魔者を魔術で出すことができましたね。 収穫祭で"
+"やってみせたように。"
+
+msgid "chill tempest"
+msgstr "冷気の嵐"
+
+msgid "crush"
+msgstr "粉砕"
+
+msgid "elm"
+msgstr "elm"
+
+msgid "entangle"
+msgstr "遅化"
+
+msgid "faerie touch"
+msgstr "妖精の接触"
+
+msgid "fast in water, +10% fire damage"
+msgstr "水中で速い、+10% 火炎ダメージ増加"
+
+msgid "lightbeam"
+msgstr "光線"
+
+msgid "missile"
+msgstr "ミサイル"
+
+msgid "oak"
+msgstr "oak"
+
+msgid "pine"
+msgstr "pine"
+
+msgid "redwood"
+msgstr "redwood"
+
+msgid "shadow wave"
+msgstr "shadow wave"
+
+msgid "staff"
+msgstr "杖"
+
+msgid "touch"
+msgstr "接触"
+
+msgid "willow"
+msgstr "willow"
