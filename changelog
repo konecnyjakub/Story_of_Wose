@@ -1,3 +1,7 @@
+0.7.5+dev
+ Updated for Wesnoth 1.12/1.13
+ Cleaned up the code, fixed some issues
+
 0.7.5
  Fixed AI getting confused by easter egg leader
  Updated WML to 1.10
