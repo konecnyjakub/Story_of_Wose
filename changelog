@@ -1,6 +1,7 @@
 0.8.0+dev
  Corrected some typos
  Fixed an attack icon
+ Fixed turn number for changing victory condition in The Trees Move
 0.8.0
  Updated for Wesnoth 1.12/1.13
  Cleaned up the code, fixed some issues
