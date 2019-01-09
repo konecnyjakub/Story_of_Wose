@@ -1,5 +1,6 @@
 0.8.1+dev
  Fixed changed (at turn 8) map for Catacomb
+ Added Turns run out as defeat condition in most scenarios
 0.8.1
  Corrected some typos
  Fixed an attack icon
