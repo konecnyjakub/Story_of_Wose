@@ -1,4 +1,4 @@
-0.8.1+dev
+0.8.2
  Fixed changed (at turn 8) map for Catacomb
  Added Turns run out as defeat condition in most scenarios
  Added decription to Ruby of Fire object in Arena, added icon to attack, improved animation
