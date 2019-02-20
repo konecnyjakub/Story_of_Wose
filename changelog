@@ -4,6 +4,7 @@
  Made killing all enemy leaders alternative victory condition in The Trees Move
  Updated graphics for Wose Shaman
  Fixed various 'Variable x doesn't exist' errors when recalling
+ Added name to Ruby of Fire object in Arena
 0.8.2
  Fixed changed (at turn 8) map for Catacomb
  Added Turns run out as defeat condition in most scenarios
