@@ -5,6 +5,7 @@
  Updated graphics for Wose Shaman
  Fixed various 'Variable x doesn't exist' errors when recalling
  Added name to Ruby of Fire object in Arena
+ The campaign can be chronologically sorted on Wesnoth 1.14
 0.8.2
  Fixed changed (at turn 8) map for Catacomb
  Added Turns run out as defeat condition in most scenarios
