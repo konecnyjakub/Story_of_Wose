@@ -1,5 +1,6 @@
 0.10.0-dev
  Dropped support for Wesnoth 1.12
+ Added Czech translation
 0.9.0
  Changed Ruby of Fire's attack to 14-4
  Mentioned killing Lich-Lord Lenvan as alternative victory condition in Catacomb
