@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Story_of_Wose-1.12\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2019-02-20 13:17 UTC\n"
-"PO-Revision-Date: 2020-12-10 16:46+0100\n"
+"PO-Revision-Date: 2020-12-10 22:08+0100\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -138,6 +138,9 @@ msgid ""
 "inches tall. They have a particularly whimsical attitude and a protective "
 "nature. As such, the fairies, and others, find them useful as messengers."
 msgstr ""
+"Skřítci jsou blízkými příbuznými víl a vskutku jsou vysocí jen asi tři "
+"palce. Jejich přístupy a povaha jsou zvláště náladové a ochranářské. Víly i "
+"jiné bytosti je využívají jako posly."
 
 #. [part]
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:12
@@ -145,6 +148,8 @@ msgid ""
 "Men kept at the forest. Londerleona would chase them away. They never did "
 "get to the center, but kept widdling away at the sides."
 msgstr ""
+"Lidé zůstávali u lesa. Londerleona by je ráda zahnala. Nikdy sice nepronikli "
+"do nitra lesa, ale stále se rozlézali po jeho stranách."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:36
@@ -152,6 +157,8 @@ msgid ""
 "I do tire of constantly protecting the trees. Would that they could protect "
 "themselves. Would that they could sing and dance with me."
 msgstr ""
+"Jsem unavená tím, jak stále chráním ty stromy. Kdyby se tak mohly chránit "
+"sami. Kdyby se mnou mohly zpívat a tančit."
 
 #. [unit]: type=Dark Adept, id=Beggar
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:50
@@ -248,7 +255,7 @@ msgid ""
 "happens, I see and record. It is all here, everything of note."
 msgstr ""
 "Dovol mi se představit. Jsem kronikář Wesnothu. Vidím a zaznamenávám vše, co "
-"se stane. Vše, co stojí za zmínu, je zde."
+"se stane. Vše, co stojí za zmínku, je zde."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:503
@@ -259,7 +266,7 @@ msgid ""
 msgstr ""
 "Právě teď je svět mladý a psaná historie není příliš dlouhá. Postupem času "
 "bude moje knihovna růst. Očekávám, že nakonec budu mít knihovnu o rozloze "
-"několika čtverečních mil a bude v ní vše pěkně katalogizované."
+"několika čtverečních mil. A vše v ní bude pěkně katalogizované."
 
 #. [message]: id=historian
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:507
@@ -288,6 +295,8 @@ msgid ""
 "One evening shortly thereafter, Londerleona climbed onto the high plain of "
 "pinnacles to observe the stars."
 msgstr ""
+"Jednoho večera krátce nato se vydala Londerleona pozorovat hvězdy na vysokou "
+"planinu vrchoviny."
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:32
@@ -299,6 +308,8 @@ msgstr "Poraz nepřátelského vůdce"
 msgid ""
 "I've come to the pinnacles observatory to watch the stars, and--Oh bother."
 msgstr ""
+"Přišla jsem na tuto vrchovištní observatoř pozorovat hvězdy a – oh, někdo tu "
+"je."
 
 #. [message]: type=Sky Drake
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:70
@@ -314,9 +325,8 @@ msgstr ""
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:85
-#, fuzzy
 msgid "Yipe! Fire blood!"
-msgstr "oheň"
+msgstr "Jo! Ohnivá krev!"
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
@@ -325,9 +335,8 @@ msgstr "Prozkoumej jeskyni"
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:34
-#, fuzzy
 msgid "Move to the east exit"
-msgstr "Přesuň Gweddryho k východu z tunelu"
+msgstr "Přesuň se k východnímu východu"
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:44
@@ -349,7 +358,7 @@ msgstr "Lord-lich Lenvan"
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:97
 #: Story_of_Wose/scenarios/5a_Arena.cfg:75
 msgid "Lich-Lord Caror"
-msgstr "Lord-lich Caror"
+msgstr "Lord-lich Karor"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:125
@@ -366,11 +375,13 @@ msgid ""
 "That sounded like it came from the far end of the cave. We better hurry and "
 "find out what it is."
 msgstr ""
+"Znělo to, jako by to přišlo ze vzdáleného konce jeskyně. Raději si pospíšíme "
+"a zjistíme, co to je."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:136
 msgid "Caror you idiot! Who else have you been spying on this time?"
-msgstr ""
+msgstr "Karore, ty idiote! Koho dalšího jsi tentokrát špehoval?"
 
 #. [message]: id=Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:143
@@ -378,6 +389,8 @@ msgid ""
 "Just some elves. Oh, and a crazy mage who is all upset about some trees. "
 "What does it matter?"
 msgstr ""
+"Jen pár elfů. Oh, a bláznivou magyni, která je naštvané kvůli pár stromům. "
+"Co na tom záleží?"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:150
@@ -385,6 +398,8 @@ msgid ""
 "You infernal idiot. I warned you not to spy on me. This portal stuff is "
 "sensitive."
 msgstr ""
+"Ty proklatý idiote. Varoval jsem tě, abys mě nešpehoval. Ten portál je "
+"citlivý."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:157
@@ -443,12 +458,12 @@ msgstr "To zní hrozně."
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:310
 msgid "Ewwww."
-msgstr ""
+msgstr "Blééé."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:316
 msgid "First these filthy orcs, now these nasty things. What a mess."
-msgstr ""
+msgstr "Nejdřív ti špinaví skřeti, teď tyhle ošklivé věci. To je svinčík."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:327
@@ -480,7 +495,7 @@ msgstr "Vy troufalci jste na mě zaútočili!"
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:393
 msgid "Aiee, so soon to die again!"
-msgstr ""
+msgstr "Aúú, zase umírám tak brzy!"
 
 #. [scenario]: id=3_Move
 #: Story_of_Wose/scenarios/3_Move.cfg:5
@@ -493,6 +508,8 @@ msgid ""
 "The scroll was in fact a description of the spell that would raise corpses "
 "to fight for a dark sorcerer."
 msgstr ""
+"Svitek byl ve skutečnosti popisem kouzla, kterým lze pozvednout mrtvoly, aby "
+"bojovaly za temného čaroděje."
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:15
@@ -500,6 +517,8 @@ msgid ""
 "The spell consisted of two pieces. A piece to animate a corpse and a piece "
 "to bind the corpse to the will of the sorcerer."
 msgstr ""
+"Kouzlo se skládalo ze dvou částí. Část sloužící pro oživení mrtvoly a část "
+"sloužící pro svázání jejího těla pod vůli čaroděje."
 
 #. [part]
 #: Story_of_Wose/scenarios/3_Move.cfg:18
@@ -507,6 +526,7 @@ msgid ""
 "Next time men came to the forest, they came in great numbers, to chop it "
 "down."
 msgstr ""
+"Když lidé přišli napříště do lesa, přišli ve velkém počtu, aby ho vykáceli."
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/3_Move.cfg:33
@@ -623,6 +643,8 @@ msgid ""
 "You are the first besides trolls to come out of that accursed troll hole in "
 "years. But what are these?"
 msgstr ""
+"Jsi kromě trollů jediná, kdo za poslední léta vylezl z té prokleté trollí "
+"díry. Ale kdo jsou tamti?"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/Epilog.cfg:94
@@ -661,9 +683,8 @@ msgstr ""
 #. [unit]: type=Necromancer, id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:14
 #: Story_of_Wose/scenarios/5a_Arena.cfg:366
-#, fuzzy
 msgid "Oracle"
-msgstr "Věštírna"
+msgstr "Věštec"
 
 #. [message]: id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:22
@@ -671,6 +692,8 @@ msgid ""
 "Hahaha. Now that those two bags of bones are out of the way, I'll take that "
 "Ruby myself and rule this city!"
 msgstr ""
+"Hahaha. Teď, když jsou ty dva pytle kostí odklizené, vezmu si ten rubín sám "
+"a budu vládnout tomuto městu!"
 
 #. [side]: type=Wood Mage, id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:37 Story_of_Wose/utils/utils.cfg:15
@@ -783,65 +806,19 @@ msgid ""
 "order of Magi had set up operations in some forest. Wood was needed for the "
 "construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
+"Někde na Zeleném ostrově (historie již není kde přesně), zahájil v jednom "
+"lese svou činnost podivný řád mágů. Ke stavbě nedalekého města bylo "
+"zapotřebí dřeva, a tak byla z přístavu Čistá Voda vyslána skupina..."
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:32
-#, fuzzy
 msgid "Protect the Forest"
-msgstr "Chraňte princeznu!"
+msgstr "Ochraň les"
 
 #. [side]: type=Lieutenant, id=Gwoddyn
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:50
-#, fuzzy
 msgid "Gwoddyn"
-msgstr ""
-"Addraecyn,Addraenvan,Addraer,Addraercyn,Addraryn,Addreddry,Addredry,"
-"Addregwyn,Addrenyc,Addreoddry,Addreoddyn,Addreonyc,Addreorcyn,Addreran,"
-"Addribryn,Addriddyn,Addrocyn,Addroryn,Addrunvan,Addrurcyn,Addryllyn,"
-"Addrynvan,Aethacyn,Aethadry,Aethaec,Aethaeran,Aethaeryn,Aethagwyn,Aethanry,"
-"Aetharcyn,Aethec,Aethellyn,Aethenvan,Aetheoc,Aetheollyn,Aetheonyc,Aetheorcyn,"
-"Aethercyn,Aetherraent,Aethibryn,Aethiddry,Aethircyn,Aethobryn,Aethoddyn,"
-"Aethonnyn,Aethuc,Aethudry,Aethugwyn,Aethun,Aethunry,Aethydry,Aethynyc,Blac,"
-"Bladoc,Blaec,Blaedry,Blanry,Blebryn,Bledoc,Blemyr,Blennyn,Blenvan,Bleollyn,"
-"Blercyn,Blidd,Bliddry,Blillyn,Blinvan,Blollyn,Blubryn,Blucyn,Bludry,Blullyn,"
-"Bluran,Blybryn,Blydd,Blygwyn,Blymyr,Blyr,Bucyn,Cac,Cadry,Caebryn,Caedry,"
-"Caeran,Caercyn,Car,Carac,Caraddry,Caradoc,Caraedry,Caraennyn,Cararyn,Caredd,"
-"Careddry,Caregwyn,Caren,Careobryn,Careogwyn,Careonvan,Careorraent,Careoryn,"
-"Carercyn,Caric,Cariddry,Carocyn,Caroddyn,Caror,Caroran,Carraent,Carudoc,"
-"Carullyn,Carygwyn,Caryn,Cebryn,Cemyr,Cennyn,Ceoc,Ceoddry,Ceoddyn,Ceomyr,"
-"Ceonnyn,Ceonry,Ceoryn,Cicyn,Cin,Cinry,Coc,Convan,Corcyn,Cubryn,Cunry,Curyn,"
-"Cynyc,Cyryn,Dac,Dadd,Dadoc,Daeddry,Daedoc,Daellyn,Demyr,Denvan,Deodd,Deollyn,"
-"Deonyc,Derraent,Dibryn,Dinnyn,Dircyn,Dycyn,Dyddyn,Gaddry,Gaebryn,Gaedry,"
-"Gaercyn,Gagwyn,Gan,Gannyn,Gar,Gecyn,Geddyn,Gegwyn,Geodry,Ginvan,Glacyn,"
-"Gladoc,Glaercyn,Glarraent,Gleddry,Gleoddyn,Gleran,Gliddyn,Glillyn,Glinry,"
-"Glircyn,Gloddry,Gloddyn,Glonry,Glonvan,Glumyr,Glun,Glunry,Glunvan,Glyc,Glydd,"
-"Glydoc,Glynry,Glynvan,Glyran,Goc,Gor,Gubryn,Gudd,Gullyn,Gumyr,Gur,Gwadoc,"
-"Gwaec,Gwaeddyn,Gwan,Gweddyn,Gwegwyn,Gwellyn,Gwennyn,Gwenyc,Gweocyn,Gweodd,"
-"Gweodoc,Gweodry,Gweogwyn,Gweoran,Gwidoc,Gwilam,Gwodd,Gwoddyn,Gwollyn,Gwor,"
-"Gwucyn,Gwudoc,Gwumyr,Gwuran,Gwybryn,Gwycyn,Gwyddry,Gwydoc,Gwymyr,Gwynnyn,"
-"Gydoc,Gyllyn,Gymyr,Haldar,Labryn,Ladoc,Laellyn,Lan,Lannyn,Laran,Lec,Lemyr,"
-"Lenvan,Leogwyn,Lercyn,Ligwyn,Lin,Liryn,Lonnyn,Lorraent,Luddry,Ludoc,Lunnyn,"
-"Lunvan,Lurraent,Mac,Maddyn,Maennyn,Manry,Manyc,Marcyn,Mec,Menvan,Meollyn,"
-"Meon,Meonnyn,Meorraent,Middry,Midry,Mimyr,Modd,Moddry,Monry,Moran,Morcyn,"
-"Mubryn,Mudoc,Mugwyn,Murcyn,Mydoc,Mygwyn,Myn,Myrraent,Owac,Owadd,Owaddyn,"
-"Owaecyn,Owaedry,Owain,Owarcyn,Owaryn,Owecyn,Owedry,Oweomyr,Oweor,Oweorcyn,"
-"Oweran,Owercyn,Owidry,Owinvan,Owinyc,Owodd,Owoddry,Owogwyn,Owollyn,Oworan,"
-"Oworcyn,Oworraent,Owuddry,Owuddyn,Owugwyn,Owur,Owyran,Rabryn,Radd,Ranvan,Rar,"
-"Reoddyn,Reodry,Rhaecyn,Rhaedoc,Rhaemyr,Rhaerraent,Rhanry,Rharcyn,Rhenry,"
-"Rhenvan,Rhenyc,Rheodd,Rheoddyn,Rheollyn,Rheor,Rheoran,Rheorraent,Rheran,"
-"Rherraent,Rhobryn,Rhodry,Rhollyn,Rhonvan,Rhubryn,Rhugwyn,Rhunyc,Rhur,Rhygwyn,"
-"Rhyllyn,Rhynyc,Rhyrcyn,Rhyrraent,Rocyn,Roddyn,Romyr,Ron,Ronry,Rubryn,Ruddry,"
-"Rumyr,Run,Rurcyn,Rybryn,Rycyn,Ryddry,Rygwyn,Rynnyn,Rynry,Saec,Saellyn,Saemyr,"
-"Saenvan,Saercyn,Sanyc,Saran,Sarraent,Secyn,Seddyn,Sedry,Sellyn,Sennyn,"
-"Seoddry,Seorcyn,Sercyn,Siddry,Simyr,Siryn,Sodd,Sodry,Soran,Suc,Sudd,Surcyn,"
-"Sydd,Syran,Syryn,Tabryn,Taec,Taedd,Taedoc,Taemyr,Taenvan,Taercyn,Tanry,"
-"Tarcyn,Teddyn,Tegwyn,Ten,Tennyn,Tenvan,Teobryn,Teoddyn,Teor,Teorcyn,Terraent,"
-"Tinry,Tinvan,Tiryn,Todd,Tudd,Tuddry,Tudoc,Tunvan,Turraent,Tyddyn,Vaddyn,"
-"Vaeddyn,Vaedry,Vaennyn,Varcyn,Ven,Vennyn,Veocyn,Veoddyn,Veodry,Veogwyn,"
-"Veomyr,Vinvan,Vinyc,Virraent,Vobryn,Vogwyn,Vonry,Vuddyn,Vugwyn,Vyc,Vygwyn,"
-"Vyrcyn,Yracyn,Yraec,Yran,Yrannyn,Yranvan,Yraryn,Yredd,Yreddyn,Yregwyn,Yreryn,"
-"Yrinvan,Yrirraent,Yroddry,Yrullyn,Yrumyr,Yrunnyn,Yrunvan,Yryllyn,Yrymyr,"
-"Yrynyc,Yryrcyn"
+msgstr "Gwodyn"
 
 #. [unit]: type=Fencer, id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:77
@@ -915,7 +892,7 @@ msgstr "Ouha."
 #. [message]: speaker=narrator
 #: Story_of_Wose/utils/deaths.cfg:29
 msgid "I'm sorry but that death changes history too much for me."
-msgstr ""
+msgstr "Omlouvám se, ale ta smrt na můj vkus příliš mění historii."
 
 #. [trait]: id=oak
 #: Story_of_Wose/utils/traits.cfg:6
