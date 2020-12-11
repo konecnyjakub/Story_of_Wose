@@ -806,7 +806,7 @@ msgid ""
 "order of Magi had set up operations in some forest. Wood was needed for the "
 "construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
-"Někde na Zeleném ostrově (historie již není kde přesně), zahájil v jednom "
+"Někde na Zeleném ostrově (historie již neví kde přesně), zahájil v jednom "
 "lese svou činnost podivný řád mágů. Ke stavbě nedalekého města bylo "
 "zapotřebí dřeva, a tak byla z přístavu Čistá Voda vyslána skupina..."
 
