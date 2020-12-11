@@ -308,7 +308,7 @@ msgstr "Poraz nepřátelského vůdce"
 msgid ""
 "I've come to the pinnacles observatory to watch the stars, and--Oh bother."
 msgstr ""
-"Přišla jsem na tuto vrchovištní observatoř pozorovat hvězdy a – oh, někdo tu "
+"Přišla jsem na tuto vrchovištní observatoř pozorovat hvězdy a – ach, někdo tu "
 "je."
 
 #. [message]: type=Sky Drake
@@ -389,7 +389,7 @@ msgid ""
 "Just some elves. Oh, and a crazy mage who is all upset about some trees. "
 "What does it matter?"
 msgstr ""
-"Jen pár elfů. Oh, a bláznivou magyni, která je naštvané kvůli pár stromům. "
+"Jen pár elfů. Ach, a bláznivou magyni, která je naštvaná kvůli pár stromům. "
 "Co na tom záleží?"
 
 #. [message]: id=Lich-Lord Lenvan
