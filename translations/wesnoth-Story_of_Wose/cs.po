@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-12 12:19 UTC\n"
-"PO-Revision-Date: 2020-12-12 13:28+0100\n"
+"POT-Creation-Date: 2020-12-12 12:48 UTC\n"
+"PO-Revision-Date: 2020-12-12 13:52+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -333,7 +333,7 @@ msgstr "Tak vzhůru do katakomb."
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:266
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
-msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme. "
+msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme."
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
@@ -884,55 +884,68 @@ msgstr ""
 "jiné bytosti je využívají jako posly."
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
+#: Story_of_Wose/utils/amla.cfg:9
 #, fuzzy
 msgid "Max HP bonus +"
 msgstr "Max HP bonus +3, Max XP +20%"
 
 #. [message]: id=Londerleona
+#: Story_of_Wose/utils/deaths.cfg:11
 msgid "Owhh."
 msgstr "Ouha."
 
 #. [message]: speaker=narrator
+#: Story_of_Wose/utils/deaths.cfg:23
 msgid "I'm sorry but that death changes history too much for me."
 msgstr "Omlouvám se, ale ta smrt na můj vkus příliš mění historii."
 
 #. [trait]: id=oak
+#: Story_of_Wose/utils/traits.cfg:6
 msgid "oak"
 msgstr "dub"
 
 #. [trait]: id=oak
+#: Story_of_Wose/utils/traits.cfg:7
 msgid "-10% blade damage"
 msgstr "- 10 % k útoku čepelí"
 
 #. [trait]: id=elm
+#: Story_of_Wose/utils/traits.cfg:20
 msgid "elm"
 msgstr "jilm"
 
 #. [trait]: id=elm
+#: Story_of_Wose/utils/traits.cfg:21
 msgid "-10% impact damage"
 msgstr "- 10 % k útoku úderem"
 
 #. [trait]: id=pine
+#: Story_of_Wose/utils/traits.cfg:34
 msgid "pine"
 msgstr "borovice"
 
 #. [trait]: id=pine
+#: Story_of_Wose/utils/traits.cfg:35
 msgid "-10% pierce & cold damage"
 msgstr "- 10 % k útoku botnutím a chladem"
 
 #. [trait]: id=willow
+#: Story_of_Wose/utils/traits.cfg:49
 msgid "willow"
 msgstr "vrba"
 
 #. [trait]: id=willow
+#: Story_of_Wose/utils/traits.cfg:50
 msgid "fast in water, +10% fire damage"
 msgstr "rychlý pohyb ve vodě, + 10 % k útoku ohněm"
 
 #. [trait]: id=redwood
+#: Story_of_Wose/utils/traits.cfg:71
 msgid "redwood"
 msgstr "sekvoj"
 
 #. [trait]: id=redwood
+#: Story_of_Wose/utils/traits.cfg:72
 msgid "-10% fire damage"
 msgstr "- 10 % k útoku ohněm"
 
@@ -967,42 +980,47 @@ msgstr "PS"
 msgid "Somewhere on the Green Isle"
 msgstr "Kdesi na Zeleném ostrově"
 
+#. [campaign]: id=Story_of_the_Wose
+#: Story_of_Wose/_main.cfg:16
+msgid "Version:"
+msgstr "Verze:"
+
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:17
+#: Story_of_Wose/_main.cfg:19
 msgid "Normal"
 msgstr "Normální"
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:22
+#: Story_of_Wose/_main.cfg:24
 msgid "Hard"
 msgstr "Těžká"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:31
+#: Story_of_Wose/_main.cfg:33
 msgid "Campaign Design"
 msgstr "Návrh tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:37
+#: Story_of_Wose/_main.cfg:39
 msgid "Campaign Maintenance"
 msgstr "Údržba tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:46
+#: Story_of_Wose/_main.cfg:48
 msgid "French Translation"
 msgstr "Francouzský překlad"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:52
+#: Story_of_Wose/_main.cfg:54
 msgid "Japanese Translation"
 msgstr "Japonský překlad"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:58
+#: Story_of_Wose/_main.cfg:60
 msgid "Czech Translation"
 msgstr "Český překlad"
 
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:84
+#: Story_of_Wose/_main.cfg:86
 msgid "Story of Wose"
 msgstr "Příběh stromouse"

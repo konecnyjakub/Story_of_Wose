@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-12 12:19 UTC\n"
+"POT-Creation-Date: 2020-12-12 12:48 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -715,67 +715,67 @@ msgid "Closely related to the fairies are the pixies, which really are about thr
 msgstr ""
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
-#:Story_of_Wose/utils/amla.cfg:9
+#: Story_of_Wose/utils/amla.cfg:9
 msgid "Max HP bonus +"
 msgstr ""
 
 #. [message]: id=Londerleona
-#:Story_of_Wose/utils/deaths.cfg:11
+#: Story_of_Wose/utils/deaths.cfg:11
 msgid "Owhh."
 msgstr ""
 
 #. [message]: speaker=narrator
-#:Story_of_Wose/utils/deaths.cfg:23
+#: Story_of_Wose/utils/deaths.cfg:23
 msgid "I'm sorry but that death changes history too much for me."
 msgstr ""
 
 #. [trait]: id=oak
-#:Story_of_Wose/utils/traits.cfg:6
+#: Story_of_Wose/utils/traits.cfg:6
 msgid "oak"
 msgstr ""
 
 #. [trait]: id=oak
-#:Story_of_Wose/utils/traits.cfg:7
+#: Story_of_Wose/utils/traits.cfg:7
 msgid "-10% blade damage"
 msgstr ""
 
 #. [trait]: id=elm
-#:Story_of_Wose/utils/traits.cfg:20
+#: Story_of_Wose/utils/traits.cfg:20
 msgid "elm"
 msgstr ""
 
 #. [trait]: id=elm
-#:Story_of_Wose/utils/traits.cfg:21
+#: Story_of_Wose/utils/traits.cfg:21
 msgid "-10% impact damage"
 msgstr ""
 
 #. [trait]: id=pine
-#:Story_of_Wose/utils/traits.cfg:34
+#: Story_of_Wose/utils/traits.cfg:34
 msgid "pine"
 msgstr ""
 
 #. [trait]: id=pine
-#:Story_of_Wose/utils/traits.cfg:35
+#: Story_of_Wose/utils/traits.cfg:35
 msgid "-10% pierce & cold damage"
 msgstr ""
 
 #. [trait]: id=willow
-#:Story_of_Wose/utils/traits.cfg:49
+#: Story_of_Wose/utils/traits.cfg:49
 msgid "willow"
 msgstr ""
 
 #. [trait]: id=willow
-#:Story_of_Wose/utils/traits.cfg:50
+#: Story_of_Wose/utils/traits.cfg:50
 msgid "fast in water, +10% fire damage"
 msgstr ""
 
 #. [trait]: id=redwood
-#:Story_of_Wose/utils/traits.cfg:71
+#: Story_of_Wose/utils/traits.cfg:71
 msgid "redwood"
 msgstr ""
 
 #. [trait]: id=redwood
-#:Story_of_Wose/utils/traits.cfg:72
+#: Story_of_Wose/utils/traits.cfg:72
 msgid "-10% fire damage"
 msgstr ""
 
@@ -810,43 +810,48 @@ msgstr ""
 msgid "Somewhere on the Green Isle"
 msgstr ""
 
+#. [campaign]: id=Story_of_the_Wose
+#: Story_of_Wose/_main.cfg:16
+msgid "Version:"
+msgstr ""
+
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:17
+#: Story_of_Wose/_main.cfg:19
 msgid "Normal"
 msgstr ""
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:22
+#: Story_of_Wose/_main.cfg:24
 msgid "Hard"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:31
+#: Story_of_Wose/_main.cfg:33
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:37
+#: Story_of_Wose/_main.cfg:39
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:46
+#: Story_of_Wose/_main.cfg:48
 msgid "French Translation"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:52
+#: Story_of_Wose/_main.cfg:54
 msgid "Japanese Translation"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:58
+#: Story_of_Wose/_main.cfg:60
 msgid "Czech Translation"
 msgstr ""
 
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:84
+#: Story_of_Wose/_main.cfg:86
 msgid "Story of Wose"
 msgstr ""
 
