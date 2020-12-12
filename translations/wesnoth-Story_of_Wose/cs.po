@@ -1,146 +1,121 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Story_of_Wose-1.12\n"
+"Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-02-20 13:17 UTC\n"
-"PO-Revision-Date: 2020-12-10 22:08+0100\n"
+"POT-Creation-Date: 2020-12-12 12:19 UTC\n"
+"PO-Revision-Date: 2020-12-12 13:28+0100\n"
+"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
+"Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"Language: cs\n"
 
-#. [unit_type]: id=Green Mage, race=human
-#: Story_of_Wose/units/human-mages/Green-Mage.cfg:5
-msgid "Green Mage"
-msgstr "Zelený mág"
-
-#. [unit_type]: id=Green Mage, race=human
-#: Story_of_Wose/units/human-mages/Green-Mage.cfg:22
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
 msgid ""
-"Green Magi are rumored to exist by the peasants, who assume that they are "
-"Magi in training that seek solitude to improve their skill. Nothing could be "
-"further from the truth. They are experienced, woodwise, and elusive."
+"Today I want to tell you another story, a mere footnote in the history books "
+"if it is even remembered at all."
 msgstr ""
-"Ve zkazkách vesničanů, co vypráví o zelených mázích, se předpokládá, že jsou "
-"to magové ve výcviku, kteří vyhledávají samotu, aby zlepšili své dovednosti. "
-"Nic nemůže být dále od pravdy. Ve skutečnosti jsou zkušení, znalí lesní "
-"moudrosti a nepolapitelní."
 
-#. [unit_type]: id=Wood Mage, race=human
-#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:5
-msgid "Wood Mage"
-msgstr "Lesní mág"
-
-# Převedeno do množného čísla.
-#. [unit_type]: id=Wood Mage, race=human
-#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:19
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
 msgid ""
-"The wood mage belongs to a very different order of magi, more akin to the "
-"undead than the lawful mages. Their power is mysterious and less understood "
-"than even the undead."
+"But as with all such footnotes, the resulting effect on this history of "
+"Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
+"No?"
 msgstr ""
-"Lesní mágové patří k velmi specifickému řádu mágů. Ten se více podobá řádům "
-"nemrtvých mágů než řádům mágů zákonných. Síla lesních mágů je tajemná a "
-"dokonce ještě méně pochopitelná než tajemství nemrtvých."
 
-#. [unit_type]: id=Life Mage, race=human
-#: Story_of_Wose/units/human-mages/Life-Mage.cfg:5
-msgid "Life Mage"
-msgstr "Mág života"
-
-#. [unit_type]: id=Life Mage, race=human
-#: Story_of_Wose/units/human-mages/Life-Mage.cfg:25
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
 msgid ""
-"Life Magi pass themselves off as Green Magi, and so are altogether unknown "
-"by the people at large. Even the best scholars have no idea of their "
-"abilities."
+"Somewhere in the green isle (history has forgotten exactly where), a strange "
+"order of Magi had set up operations in some forest. Wood was needed for the "
+"construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
-"Mágové života se vydávají za zelené mágy a tak jsou pro běžné lidi obecně "
-"neznámí. I ti nejlepší učenci nemají tušení o jejich schopnostech."
+"Někde na Zeleném ostrově (historie již neví kde přesně), zahájil v jednom "
+"lese svou činnost podivný řád mágů. Ke stavbě nedalekého města bylo "
+"zapotřebí dřeva, a tak byla z přístavu Čistá Voda vyslána skupina..."
 
-#. [unit_type]: id=Pixie, race=pixie
-#. [race]: id=pixie
-#: Story_of_Wose/units/pixies/Pixie.cfg:5 Story_of_Wose/units/races.cfg:5
-msgid "Pixie"
-msgstr "Skřítek"
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:32
+msgid "Protect the Forest"
+msgstr "Ochraň les"
 
-#. [unit_type]: id=Vampire Lady, race=undead
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:4
-msgid "female^Vampire Lady"
-msgstr "Upíří dáma"
+#. [objective]: condition=lose
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:36
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:36
+#: Story_of_Wose/scenarios/3_Move.cfg:54
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:55
+#: Story_of_Wose/scenarios/5a_Arena.cfg:115
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:211
+msgid "Death of Londerleona"
+msgstr "Londerleona zemře"
 
-#. [unit_type]: id=Vampire Lady, race=undead
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:20
+#. [side]: type=Lieutenant, id=Gwoddyn
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:50
+msgid "Gwoddyn"
+msgstr "Gwodyn"
+
+#. [unit]: type=Fencer, id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:77
+msgid "Tinry"
+msgstr "Tinry"
+
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:100
+msgid "Potion of Healing"
+msgstr "Léčivý lektvar"
+
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:102
+msgid "This unit is given the power to heal its friends."
+msgstr "Tato jednotka má moc léčit své přátele."
+
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:104
+msgid "This unit is given the power to heal itself and its friends."
+msgstr "Tato jednotka má moc léčit sebe i své přátele."
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:138
+msgid "What were you expecting, the Ruby of Fire?"
+msgstr "Co jsi čekala, snad ne Ohnivý rubín?"
+
+#. [message]: id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:149
 msgid ""
-"Cold and beautiful, she maintains her eternal youthful appearance drinking "
-"the blood of the living."
-msgstr ""
-"Chladná a krásná, svůj věčně mladistvý vzhled udržuje díky popíjení krve "
-"živých."
+"They've come. Humans from Clearwater Port. They've come to chop down our "
+"forest."
+msgstr "Přišli. Lidé z přístavu Čistá Voda. Přišli, aby pokáceli náš les."
 
-#. [attack]: type=blade
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:24
-msgid "blood kiss"
-msgstr "krvavý polibek"
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:153
+msgid "<b>Must they really?</b>"
+msgstr "<b>Skutečně to musí udělat?</b>"
 
-#. [unit_type]: id=Undead Avatar
-#: Story_of_Wose/units/undead/Undead_Avatar.cfg:11
-msgid "Undead Avatar"
-msgstr "Nemrtvé vtělení"
+#. [message]: id=Gwoddyn
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:157
+msgid "Yes, we must. We have houses and docks to build."
+msgstr "Ano, musíme. Potřebujeme dřevo pro stavbu domů a doků."
 
-#. [unit_type]: id=Undead Avatar
-#: Story_of_Wose/units/undead/Undead_Avatar.cfg:12
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
 msgid ""
-"This looks like an Ancient Lich but something's different about it, and for "
-"some reason you're not afraid of it."
-msgstr ""
-"Vypadá to jako starší lich. Ale je v tom něco zvláštního a z nějakého důvodu "
-"se toho nebojíš."
+"What? Destroy our beautiful forest for your stupid houses! This will not "
+"stand."
+msgstr "Cože? Zničit náš krásný les kvůli hloupým domům! To nejde."
 
-#. [unit_type]: id=Demilich, race=undead
-#: Story_of_Wose/units/undead/Demilich.cfg:5
-msgid "Demilich"
-msgstr "Demilich"
-
-# Asi chybka v originálu u kontinentu.
-#. [unit_type]: id=Demilich, race=undead
-#: Story_of_Wose/units/undead/Demilich.cfg:30
+#. [message]: id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:165
 msgid ""
-"The mighty Lich Lords were once rulers of powerful cities in the western "
-"contanent. The armies they command are experienced, and the lords themselves "
-"are truly terrible."
+"Perhaps you could conjer up a distraction from the mud like you did for the "
+"harvest festival."
 msgstr ""
-"Mocní lord–lichové byli kdysi vládci významných měst západního kontinentu. "
-"Armády, kterým velí, jsou zkušené a samotní lordi jsou vskutku hroziví."
-
-#. [unit_type]: id=Wose Shaman, race=wose_alt
-#: Story_of_Wose/units/wose/Wose_Shaman.cfg:35
-msgid ""
-"These woses are able to command forest plants such as vines and creepers to "
-"hinder their enemies."
-msgstr ""
-"Tito stromový muži jsou schopni přikázat lesním rostlinám, jako je réva a "
-"jiné popínavky, aby blokovaly nepřátele."
-
-#. [race]: id=pixie
-#: Story_of_Wose/units/races.cfg:6
-msgid "Pixies"
-msgstr "Střítci"
-
-#. [race]: id=pixie
-#: Story_of_Wose/units/races.cfg:8
-msgid ""
-"Closely related to the fairies are the pixies, which really are about three "
-"inches tall. They have a particularly whimsical attitude and a protective "
-"nature. As such, the fairies, and others, find them useful as messengers."
-msgstr ""
-"Skřítci jsou blízkými příbuznými víl a vskutku jsou vysocí jen asi tři "
-"palce. Jejich přístupy a povaha jsou zvláště náladové a ochranářské. Víly i "
-"jiné bytosti je využívají jako posly."
+"Možná bys mohl vyvolat rozptýlení bahnem, tak jako jsi to udělal na "
+"dožínkách."
 
 #. [part]
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:12
@@ -206,89 +181,6 @@ msgstr "Hleďme, něco upustil."
 msgid "Ooh. A scroll."
 msgstr "Hmm. Svitek."
 
-#. [scenario]: id=5_Tunnel
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:5
-msgid "The Tunnel"
-msgstr "Tunel"
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:207
-msgid "Move Londerleona to the exit in the far east."
-msgstr "Přesuň Londerleonu úplně na východ na konec tunelu"
-
-#. [objective]: condition=lose
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:211
-#: Story_of_Wose/scenarios/2_High_Plain.cfg:36
-#: Story_of_Wose/scenarios/4_Catacomb.cfg:55
-#: Story_of_Wose/scenarios/3_Move.cfg:54
-#: Story_of_Wose/scenarios/5a_Arena.cfg:115
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:36
-msgid "Death of Londerleona"
-msgstr "Londerleona zemře"
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:366
-msgid "I think we are safe now."
-msgstr "Myslím, že jsme teď v bezpečí."
-
-#. [message]
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:390
-#: Story_of_Wose/scenarios/5a_Arena.cfg:184
-msgid "Yipe!"
-msgstr "Jo!"
-
-#. [unit]: type=Undead Avatar, id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:450
-msgid "Historian of Wesnoth"
-msgstr "Kronikář Wesnothu"
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:495
-msgid "Hello, and welcome to my library."
-msgstr "Zdravím tě a vítám v mé knihovně."
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:499
-msgid ""
-"Allow me to introduce myself. I am the historian of Wesnoth. All that "
-"happens, I see and record. It is all here, everything of note."
-msgstr ""
-"Dovol mi se představit. Jsem kronikář Wesnothu. Vidím a zaznamenávám vše, co "
-"se stane. Vše, co stojí za zmínku, je zde."
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:503
-msgid ""
-"Right now, the world is young, and written history is not very long. As time "
-"passes my library will grow larger. At the last, I expect to have a few "
-"square miles of library, all nicely cataloged."
-msgstr ""
-"Právě teď je svět mladý a psaná historie není příliš dlouhá. Postupem času "
-"bude moje knihovna růst. Očekávám, že nakonec budu mít knihovnu o rozloze "
-"několika čtverečních mil. A vše v ní bude pěkně katalogizované."
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:507
-msgid "Feel free to look around. Read any book. Just don't wreck things."
-msgstr ""
-"Klidně se tu rozhlédni. Můžeš si přečíst jakoukoli knihu. Jen nic nepoškoď."
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:512
-msgid "To read a book, play another campaign."
-msgstr "Knihy si klidně čti, ale v jiné kampani."
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:524
-msgid "Provides a nice ambience, don't you think?"
-msgstr "Vytváří příjemné prostředí, že?"
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:536
-msgid "Now, if you had teleport ability, that would be a window."
-msgstr "Teď, kdybys měla schopnost teleportace, bylo by tu okno."
-
 #. [part]
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:12
 msgid ""
@@ -308,8 +200,8 @@ msgstr "Poraz nepřátelského vůdce"
 msgid ""
 "I've come to the pinnacles observatory to watch the stars, and--Oh bother."
 msgstr ""
-"Přišla jsem na tuto vrchovištní observatoř pozorovat hvězdy a – ach, někdo tu "
-"je."
+"Přišla jsem na tuto vrchovištní observatoř pozorovat hvězdy a – ach, někdo "
+"tu je."
 
 #. [message]: type=Sky Drake
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:70
@@ -327,6 +219,121 @@ msgstr ""
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:85
 msgid "Yipe! Fire blood!"
 msgstr "Jo! Ohnivá krev!"
+
+#. [scenario]: id=3_Move
+#: Story_of_Wose/scenarios/3_Move.cfg:5
+msgid "The Trees Move"
+msgstr "Chodící stromy"
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:12
+msgid ""
+"The scroll was in fact a description of the spell that would raise corpses "
+"to fight for a dark sorcerer."
+msgstr ""
+"Svitek byl ve skutečnosti popisem kouzla, kterým lze pozvednout mrtvoly, aby "
+"bojovaly za temného čaroděje."
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:15
+msgid ""
+"The spell consisted of two pieces. A piece to animate a corpse and a piece "
+"to bind the corpse to the will of the sorcerer."
+msgstr ""
+"Kouzlo se skládalo ze dvou částí. Část sloužící pro oživení mrtvoly a část "
+"sloužící pro svázání jejího těla pod vůli čaroděje."
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:18
+msgid ""
+"Next time men came to the forest, they came in great numbers, to chop it "
+"down."
+msgstr ""
+"Když lidé přišli napříště do lesa, přišli ve velkém počtu, aby ho vykáceli."
+
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/3_Move.cfg:33
+msgid "Survive until end of Turns"
+msgstr "Přežij do konce kol"
+
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/3_Move.cfg:43
+msgid "Move Londerleona to the temple."
+msgstr "Přesuň Londerleonu do chrámu."
+
+#. [objectives]
+#: Story_of_Wose/scenarios/3_Move.cfg:51
+msgid "Defeat all enemy leaders"
+msgstr "Poraz všechny nepřátelské vůdce"
+
+#. [objective]: condition=lose
+#: Story_of_Wose/scenarios/3_Move.cfg:58
+msgid "Death of Elilmaldur-Rithrandal"
+msgstr "Elilmaldur-Rithrandil zemře"
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:121
+msgid "Oh my! They are so many. Whatever shall I do?"
+msgstr "Ach ne! Je jich tolik. Co budu dělat?"
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/3_Move.cfg:125
+msgid "Child, do not despair. There is yet hope."
+msgstr "Nezoufej, dítě. Stále existuje naděje."
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:130
+msgid "Who spoke?"
+msgstr "Kdo jsi?"
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/3_Move.cfg:135
+msgid ""
+"I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset "
+"about. Animate the trees, but do not bind them to your will, for these trees "
+"have wills of their own."
+msgstr ""
+"Jmenuji se Elilmaldur-Rithrandal. Použij to kouzlo, co tě tak naštvalo. Oživ "
+"stromy, ale nesvazuj je svou vůlí. Neboť tyto stromy mají vlastní."
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:140
+msgid "I'll try, sir."
+msgstr "Pokusím se pane."
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:184
+msgid "Move my children. Avenge yourselves for your brethren."
+msgstr "Jdi dítě. Pomsti se za své bratry."
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:214
+msgid "What was that?"
+msgstr "Co to bylo?"
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:234
+msgid "The temple!"
+msgstr "Chrám!"
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:241
+msgid ""
+"Something has happened in the catacombs. Black magic has opened up some kind "
+"of portal. Go now and see what you can do about it."
+msgstr ""
+"V katakombách se něco stalo. Černá magie otevřela jakýsi portál. Hned jdi a "
+"podívej se, co s tím můžeš dělat."
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:262
+msgid "Come on, into the catacombs."
+msgstr "Tak vzhůru do katakomb."
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:266
+msgid "Don't worry about me. I will wake up more trees and crush these humans."
+msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme. "
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
@@ -497,192 +504,10 @@ msgstr "Vy troufalci jste na mě zaútočili!"
 msgid "Aiee, so soon to die again!"
 msgstr "Aúú, zase umírám tak brzy!"
 
-#. [scenario]: id=3_Move
-#: Story_of_Wose/scenarios/3_Move.cfg:5
-msgid "The Trees Move"
-msgstr "Chodící stromy"
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:12
-msgid ""
-"The scroll was in fact a description of the spell that would raise corpses "
-"to fight for a dark sorcerer."
-msgstr ""
-"Svitek byl ve skutečnosti popisem kouzla, kterým lze pozvednout mrtvoly, aby "
-"bojovaly za temného čaroděje."
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:15
-msgid ""
-"The spell consisted of two pieces. A piece to animate a corpse and a piece "
-"to bind the corpse to the will of the sorcerer."
-msgstr ""
-"Kouzlo se skládalo ze dvou částí. Část sloužící pro oživení mrtvoly a část "
-"sloužící pro svázání jejího těla pod vůli čaroděje."
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:18
-msgid ""
-"Next time men came to the forest, they came in great numbers, to chop it "
-"down."
-msgstr ""
-"Když lidé přišli napříště do lesa, přišli ve velkém počtu, aby ho vykáceli."
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/3_Move.cfg:33
-msgid "Survive until end of Turns"
-msgstr "Přežij do konce kol"
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/3_Move.cfg:43
-msgid "Move Londerleona to the temple."
-msgstr "Přesuň Londerleonu do chrámu."
-
-#. [objectives]
-#: Story_of_Wose/scenarios/3_Move.cfg:51
-msgid "Defeat all enemy leaders"
-msgstr "Poraz všechny nepřátelské vůdce"
-
-#. [objective]: condition=lose
-#: Story_of_Wose/scenarios/3_Move.cfg:58
-msgid "Death of Elilmaldur-Rithrandal"
-msgstr "Elilmaldur-Rithrandil zemře"
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:121
-msgid "Oh my! They are so many. Whatever shall I do?"
-msgstr "Ach ne! Je jich tolik. Co budu dělat?"
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/3_Move.cfg:125
-msgid "Child, do not despair. There is yet hope."
-msgstr "Nezoufej, dítě. Stále existuje naděje."
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:130
-msgid "Who spoke?"
-msgstr "Kdo jsi?"
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/3_Move.cfg:135
-msgid ""
-"I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset "
-"about. Animate the trees, but do not bind them to your will, for these trees "
-"have wills of their own."
-msgstr ""
-"Jmenuji se Elilmaldur-Rithrandal. Použij to kouzlo, co tě tak naštvalo. Oživ "
-"stromy, ale nesvazuj je svou vůlí. Neboť tyto stromy mají vlastní."
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:140
-msgid "I'll try, sir."
-msgstr "Pokusím se pane."
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:184
-msgid "Move my children. Avenge yourselves for your brethren."
-msgstr "Jdi dítě. Pomsti se za své bratry."
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:214
-msgid "What was that?"
-msgstr "Co to bylo?"
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:234
-msgid "The temple!"
-msgstr "Chrám!"
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:241
-msgid ""
-"Something has happened in the catacombs. Black magic has opened up some kind "
-"of portal. Go now and see what you can do about it."
-msgstr ""
-"V katakombách se něco stalo. Černá magie otevřela jakýsi portál. Hned jdi a "
-"podívej se, co s tím můžeš dělat."
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:262
-msgid "Come on, into the catacombs."
-msgstr "Tak vzhůru do katakomb."
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:266
-msgid "Don't worry about me. I will wake up more trees and crush these humans."
-msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme. "
-
-#. [scenario]: id=Epilog
-#: Story_of_Wose/scenarios/Epilog.cfg:5
-msgid "Epilogue"
-msgstr "Epilog"
-
-#. [side]: type=Elvish Enchantress, id=Galatiel
-#: Story_of_Wose/scenarios/Epilog.cfg:19
-msgid "Galatiel"
-msgstr "Galatiel"
-
-#. [unit]: type=Elvish Fighter, id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:33
-msgid "Telcontar"
-msgstr "Telcontar"
-
-#. [unit]: type=Elvish Captain, id=Isar
-#: Story_of_Wose/scenarios/Epilog.cfg:44
-msgid "Isar"
-msgstr "Isar"
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/Epilog.cfg:81
-msgid "Sky at last! An look, a forest!"
-msgstr "Konečně nebe! A podívejte, i les!"
-
-#. [message]: id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:90
-msgid ""
-"You are the first besides trolls to come out of that accursed troll hole in "
-"years. But what are these?"
-msgstr ""
-"Jsi kromě trollů jediná, kdo za poslední léta vylezl z té prokleté trollí "
-"díry. Ale kdo jsou tamti?"
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/Epilog.cfg:94
-msgid ""
-"These, my friend, are woses. But where am I? Surely this is not the Green "
-"Isle. We only just came a generation ago, but we should surely know if there "
-"are elves among us."
-msgstr ""
-
-#. [message]: id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:98
-msgid ""
-"You are a long way from the sea. Perhaps you should have a word with the "
-"Lady of the Wood. You seem to have quite a tale to tell."
-msgstr ""
-
-#. [message]: id=Galatiel
-#: Story_of_Wose/scenarios/Epilog.cfg:131
-msgid ""
-"Welcome to our forest. May it shelter you and be your home as it is ours. "
-"But come, tell us your tale."
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/Epilog.cfg:135
-msgid ""
-"And so the story was told of how the wood magi awakened the trees and how "
-"they were the first humans to set foot upon the great continent. Many years "
-"later Elilmaldur-Rithrandal would play a key part in the foundation of a "
-"great nation of humans upon this continent. The wood magi, elusive as always "
-"and distrustful of other humans, would take no part again in history for "
-"more than a thousand years."
-msgstr ""
-
 #. [unit]: id=Oracle, type=Necromancer
 #. [unit]: type=Necromancer, id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:14
-#: Story_of_Wose/scenarios/5a_Arena.cfg:366
+#: Story_of_Wose/scenarios/5a_Arena.cfg:367
 msgid "Oracle"
 msgstr "Věštec"
 
@@ -720,8 +545,13 @@ msgstr "Mám pocit, že jsem sem neměla chodit."
 msgid "What's this? Looks like that terror left me a worthy gift."
 msgstr "Co je tohle? Vypadá to, že mi tu ta šílenost nechala hodnotný dárek."
 
-#. [object]: id=The Ruby of Fire
+#. [object]: id=ruby_of_fire
 #: Story_of_Wose/scenarios/5a_Arena.cfg:132
+msgid "The Ruby of Fire"
+msgstr "Ohnivý rubín"
+
+#. [object]: id=ruby_of_fire
+#: Story_of_Wose/scenarios/5a_Arena.cfg:133
 msgid ""
 "The Ruby of Fire was imbued with magic in the distant west, and can be used "
 "to scorch enemies into submission."
@@ -730,47 +560,54 @@ msgstr ""
 "nepřátel."
 
 #. [effect]: type=fire
-#: Story_of_Wose/scenarios/5a_Arena.cfg:139
+#: Story_of_Wose/scenarios/5a_Arena.cfg:140
 msgid "Ruby of Fire"
 msgstr "Ohnivý rubín"
 
+#. [message]: id=Londerleona
+#. [message]
+#: Story_of_Wose/scenarios/5a_Arena.cfg:185
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:390
+msgid "Yipe!"
+msgstr "Jo!"
+
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:188
+#: Story_of_Wose/scenarios/5a_Arena.cfg:189
 msgid "She has killed Lenvan and taken the Ruby of Fire!"
 msgstr "Zabila Lenvana a vzala Ohnivý rubín!"
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:192
+#: Story_of_Wose/scenarios/5a_Arena.cfg:193
 msgid "I'll take that Ruby myself, thank you."
 msgstr "Vzal bych si ten rubín sám, děkuji."
 
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:196
-msgid "No, its Mine!"
+#: Story_of_Wose/scenarios/5a_Arena.cfg:197
+msgid "No, it's Mine!"
 msgstr "Ne, je MŮJ!"
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:200
+#: Story_of_Wose/scenarios/5a_Arena.cfg:201
 msgid "Fine, I'll kill you too."
 msgstr "Dobře, tak zabiju i tebe."
 
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:307
+#: Story_of_Wose/scenarios/5a_Arena.cfg:308
 msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
 msgstr "Teď, když je Jevyan mrtvý, vezmu si ten rubín a budu vládnout městu!"
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:334
+#: Story_of_Wose/scenarios/5a_Arena.cfg:335
 msgid "Now that that usurper is dead, I'll deal with you!"
 msgstr "Teď, když je usurpátor mrtvý, vypořádám se s tebou!"
 
 #. [message]: id=Oracle
-#: Story_of_Wose/scenarios/5a_Arena.cfg:372
+#: Story_of_Wose/scenarios/5a_Arena.cfg:373
 msgid "She was right, she shouldn't have come this way."
 msgstr "Měla pravdu. Neměla sem chodit."
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5a_Arena.cfg:381
+#: Story_of_Wose/scenarios/5a_Arena.cfg:382
 msgid ""
 "Well, that's certainly not how the story is supposed to go. What's this? You "
 "have written into the book of history and it has come to pass just as you "
@@ -778,169 +615,324 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5a_Arena.cfg:386
+#: Story_of_Wose/scenarios/5a_Arena.cfg:387
 msgid ""
 "Well now you've really done it! All that I have taught you, all that we "
 "know, has changed."
 msgstr ""
 
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
-msgid ""
-"Today I want to tell you another story, a mere footnote in the history books "
-"if it is even remembered at all."
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
-msgid ""
-"But as with all such footnotes, the resulting effect on this history of "
-"Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
-"No?"
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
-msgid ""
-"Somewhere in the green isle (history has forgotten exactly where), a strange "
-"order of Magi had set up operations in some forest. Wood was needed for the "
-"construction of a nearby town, and so a team was sent from Clearwater Port..."
-msgstr ""
-"Někde na Zeleném ostrově (historie již neví kde přesně), zahájil v jednom "
-"lese svou činnost podivný řád mágů. Ke stavbě nedalekého města bylo "
-"zapotřebí dřeva, a tak byla z přístavu Čistá Voda vyslána skupina..."
+#. [scenario]: id=5_Tunnel
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:5
+msgid "The Tunnel"
+msgstr "Tunel"
 
 #. [objective]: condition=win
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:32
-msgid "Protect the Forest"
-msgstr "Ochraň les"
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:207
+msgid "Move Londerleona to the exit in the far east."
+msgstr "Přesuň Londerleonu úplně na východ na konec tunelu"
 
-#. [side]: type=Lieutenant, id=Gwoddyn
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:50
-msgid "Gwoddyn"
-msgstr "Gwodyn"
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:366
+msgid "I think we are safe now."
+msgstr "Myslím, že jsme teď v bezpečí."
 
-#. [unit]: type=Fencer, id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:77
-msgid "Tinry"
-msgstr "Tinry"
+#. [unit]: type=Undead Avatar, id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:450
+msgid "Historian of Wesnoth"
+msgstr "Kronikář Wesnothu"
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:100
-msgid "Potion of Healing"
-msgstr "Léčivý lektvar"
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:495
+msgid "Hello, and welcome to my library."
+msgstr "Zdravím tě a vítám v mé knihovně."
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:102
-msgid "This unit is given the power to heal its friends."
-msgstr "Tato jednotka má moc léčit své přátele."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:499
+msgid ""
+"Allow me to introduce myself. I am the historian of Wesnoth. All that "
+"happens, I see and record. It is all here, everything of note."
+msgstr ""
+"Dovol mi se představit. Jsem kronikář Wesnothu. Vidím a zaznamenávám vše, co "
+"se stane. Vše, co stojí za zmínku, je zde."
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:104
-msgid "This unit is given the power to heal itself and its friends."
-msgstr "Tato jednotka má moc léčit sebe i své přátele."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:503
+msgid ""
+"Right now, the world is young, and written history is not very long. As time "
+"passes my library will grow larger. At the last, I expect to have a few "
+"square miles of library, all nicely cataloged."
+msgstr ""
+"Právě teď je svět mladý a psaná historie není příliš dlouhá. Postupem času "
+"bude moje knihovna růst. Očekávám, že nakonec budu mít knihovnu o rozloze "
+"několika čtverečních mil. A vše v ní bude pěkně katalogizované."
+
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:507
+msgid "Feel free to look around. Read any book. Just don't wreck things."
+msgstr ""
+"Klidně se tu rozhlédni. Můžeš si přečíst jakoukoli knihu. Jen nic nepoškoď."
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:138
-msgid "What were you expecting, the Ruby of Fire?"
-msgstr "Co jsi čekala, snad ne Ohnivý rubín?"
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:512
+msgid "To read a book, play another campaign."
+msgstr "Knihy si klidně čti, ale v jiné kampani."
 
-#. [message]: id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:149
-msgid ""
-"They've come. Humans from Clearwater Port. They've come to chop down our "
-"forest."
-msgstr "Přišli. Lidé z přístavu Čistá Voda. Přišli, aby pokáceli náš les."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:524
+msgid "Provides a nice ambience, don't you think?"
+msgstr "Vytváří příjemné prostředí, že?"
+
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:536
+msgid "Now, if you had teleport ability, that would be a window."
+msgstr "Teď, kdybys měla schopnost teleportace, bylo by tu okno."
+
+#. [scenario]: id=Epilog
+#: Story_of_Wose/scenarios/Epilog.cfg:5
+msgid "Epilogue"
+msgstr "Epilog"
+
+#. [side]: type=Elvish Enchantress, id=Galatiel
+#: Story_of_Wose/scenarios/Epilog.cfg:19
+msgid "Galatiel"
+msgstr "Galatiel"
+
+#. [unit]: type=Elvish Fighter, id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:29
+msgid "Telcontar"
+msgstr "Telcontar"
+
+#. [unit]: type=Elvish Captain, id=Isar
+#: Story_of_Wose/scenarios/Epilog.cfg:40
+msgid "Isar"
+msgstr "Isar"
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:153
-msgid "<b>Must they really?</b>"
-msgstr "<b>Skutečně to musí udělat?</b>"
+#: Story_of_Wose/scenarios/Epilog.cfg:77
+msgid "Sky at last! An look, a forest!"
+msgstr "Konečně nebe! A podívejte, i les!"
 
-#. [message]: id=Gwoddyn
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:157
-msgid "Yes, we must. We have houses and docks to build."
-msgstr "Ano, musíme. Potřebujeme dřevo pro stavbu domů a doků."
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
+#. [message]: id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:86
 msgid ""
-"What? Destroy our beautiful forest for your stupid houses! This will not "
-"stand."
-msgstr "Cože? Zničit náš krásný les kvůli hloupým domům! To nejde."
-
-#. [message]: id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:165
-msgid ""
-"Perhaps you could conjer up a distraction from the mud like you did for the "
-"harvest festival."
+"You are the first besides trolls to come out of that accursed troll hole in "
+"years. But what are these?"
 msgstr ""
-"Možná bys mohl vyvolat rozptýlení bahnem, tak jako jsi to udělal na "
-"dožínkách."
+"Jsi kromě trollů jediná, kdo za poslední léta vylezl z té prokleté trollí "
+"díry. Ale kdo jsou tamti?"
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/Epilog.cfg:90
+msgid ""
+"These, my friend, are woses. But where am I? Surely this is not the Green "
+"Isle. We only just came a generation ago, but we should surely know if there "
+"are elves among us."
+msgstr ""
+
+#. [message]: id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:94
+msgid ""
+"You are a long way from the sea. Perhaps you should have a word with the "
+"Lady of the Wood. You seem to have quite a tale to tell."
+msgstr ""
+
+#. [message]: id=Galatiel
+#: Story_of_Wose/scenarios/Epilog.cfg:127
+msgid ""
+"Welcome to our forest. May it shelter you and be your home as it is ours. "
+"But come, tell us your tale."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/Epilog.cfg:131
+msgid ""
+"And so the story was told of how the wood magi awakened the trees and how "
+"they were the first humans to set foot upon the great continent. Many years "
+"later Elilmaldur-Rithrandal would play a key part in the foundation of a "
+"great nation of humans upon this continent. The wood magi, elusive as always "
+"and distrustful of other humans, would take no part again in history for "
+"more than a thousand years."
+msgstr ""
+
+#. [unit_type]: id=Green Mage, race=human
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:5
+msgid "Green Mage"
+msgstr "Zelený mág"
+
+#. [unit_type]: id=Green Mage, race=human
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:22
+msgid ""
+"Green Magi are rumored to exist by the peasants, who assume that they are "
+"Magi in training that seek solitude to improve their skill. Nothing could be "
+"further from the truth. They are experienced, woodwise, and elusive."
+msgstr ""
+"Ve zkazkách vesničanů, co vypráví o zelených mázích, se předpokládá, že jsou "
+"to magové ve výcviku, kteří vyhledávají samotu, aby zlepšili své dovednosti. "
+"Nic nemůže být dále od pravdy. Ve skutečnosti jsou zkušení, znalí lesní "
+"moudrosti a nepolapitelní."
+
+#. [unit_type]: id=Life Mage, race=human
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:5
+msgid "Life Mage"
+msgstr "Mág života"
+
+#. [unit_type]: id=Life Mage, race=human
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:25
+msgid ""
+"Life Magi pass themselves off as Green Magi, and so are altogether unknown "
+"by the people at large. Even the best scholars have no idea of their "
+"abilities."
+msgstr ""
+"Mágové života se vydávají za zelené mágy a tak jsou pro běžné lidi obecně "
+"neznámí. I ti nejlepší učenci nemají tušení o jejich schopnostech."
+
+#. [unit_type]: id=Wood Mage, race=human
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:5
+msgid "Wood Mage"
+msgstr "Lesní mág"
+
+# Převedeno do množného čísla.
+#. [unit_type]: id=Wood Mage, race=human
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:19
+msgid ""
+"The wood mage belongs to a very different order of magi, more akin to the "
+"undead than the lawful mages. Their power is mysterious and less understood "
+"than even the undead."
+msgstr ""
+"Lesní mágové patří k velmi specifickému řádu mágů. Ten se více podobá řádům "
+"nemrtvých mágů než řádům mágů zákonných. Síla lesních mágů je tajemná a "
+"dokonce ještě méně pochopitelná než tajemství nemrtvých."
+
+#. [unit_type]: id=Pixie, race=pixie
+#. [race]: id=pixie
+#: Story_of_Wose/units/pixies/Pixie.cfg:5 Story_of_Wose/units/races.cfg:5
+msgid "Pixie"
+msgstr "Skřítek"
+
+#. [unit_type]: id=Demilich, race=undead
+#: Story_of_Wose/units/undead/Demilich.cfg:5
+msgid "Demilich"
+msgstr "Demilich"
+
+# Asi chybka v originálu u kontinentu.
+#. [unit_type]: id=Demilich, race=undead
+#: Story_of_Wose/units/undead/Demilich.cfg:30
+msgid ""
+"The mighty Lich Lords were once rulers of powerful cities in the western "
+"contanent. The armies they command are experienced, and the lords themselves "
+"are truly terrible."
+msgstr ""
+"Mocní lord–lichové byli kdysi vládci významných měst západního kontinentu. "
+"Armády, kterým velí, jsou zkušené a samotní lordi jsou vskutku hroziví."
+
+#. [unit_type]: id=Undead Avatar
+#: Story_of_Wose/units/undead/Undead_Avatar.cfg:11
+msgid "Undead Avatar"
+msgstr "Nemrtvé vtělení"
+
+#. [unit_type]: id=Undead Avatar
+#: Story_of_Wose/units/undead/Undead_Avatar.cfg:12
+msgid ""
+"This looks like an Ancient Lich but something's different about it, and for "
+"some reason you're not afraid of it."
+msgstr ""
+"Vypadá to jako starší lich. Ale je v tom něco zvláštního a z nějakého důvodu "
+"se toho nebojíš."
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:4
+msgid "female^Vampire Lady"
+msgstr "Upíří dáma"
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:19
+msgid ""
+"Cold and beautiful, she maintains her eternal youthful appearance drinking "
+"the blood of the living."
+msgstr ""
+"Chladná a krásná, svůj věčně mladistvý vzhled udržuje díky popíjení krve "
+"živých."
+
+#. [attack]: type=blade
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:23
+msgid "blood kiss"
+msgstr "krvavý polibek"
+
+#. [unit_type]: id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:34
+msgid ""
+"These woses are able to command forest plants such as vines and creepers to "
+"hinder their enemies."
+msgstr ""
+"Tito stromový muži jsou schopni přikázat lesním rostlinám, jako je réva a "
+"jiné popínavky, aby blokovaly nepřátele."
+
+#. [race]: id=pixie
+#: Story_of_Wose/units/races.cfg:6
+msgid "Pixies"
+msgstr "Střítci"
+
+#. [race]: id=pixie
+#: Story_of_Wose/units/races.cfg:8
+msgid ""
+"Closely related to the fairies are the pixies, which really are about three "
+"inches tall. They have a particularly whimsical attitude and a protective "
+"nature. As such, the fairies, and others, find them useful as messengers."
+msgstr ""
+"Skřítci jsou blízkými příbuznými víl a vskutku jsou vysocí jen asi tři "
+"palce. Jejich přístupy a povaha jsou zvláště náladové a ochranářské. Víly i "
+"jiné bytosti je využívají jako posly."
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
-#: Story_of_Wose/utils/amla.cfg:9
 #, fuzzy
 msgid "Max HP bonus +"
 msgstr "Max HP bonus +3, Max XP +20%"
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/utils/deaths.cfg:11
 msgid "Owhh."
 msgstr "Ouha."
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/utils/deaths.cfg:29
 msgid "I'm sorry but that death changes history too much for me."
 msgstr "Omlouvám se, ale ta smrt na můj vkus příliš mění historii."
 
 #. [trait]: id=oak
-#: Story_of_Wose/utils/traits.cfg:6
 msgid "oak"
 msgstr "dub"
 
 #. [trait]: id=oak
-#: Story_of_Wose/utils/traits.cfg:7
 msgid "-10% blade damage"
 msgstr "- 10 % k útoku čepelí"
 
 #. [trait]: id=elm
-#: Story_of_Wose/utils/traits.cfg:20
 msgid "elm"
 msgstr "jilm"
 
 #. [trait]: id=elm
-#: Story_of_Wose/utils/traits.cfg:21
 msgid "-10% impact damage"
 msgstr "- 10 % k útoku úderem"
 
 #. [trait]: id=pine
-#: Story_of_Wose/utils/traits.cfg:34
 msgid "pine"
 msgstr "borovice"
 
 #. [trait]: id=pine
-#: Story_of_Wose/utils/traits.cfg:35
 msgid "-10% pierce & cold damage"
 msgstr "- 10 % k útoku botnutím a chladem"
 
 #. [trait]: id=willow
-#: Story_of_Wose/utils/traits.cfg:49
 msgid "willow"
 msgstr "vrba"
 
 #. [trait]: id=willow
-#: Story_of_Wose/utils/traits.cfg:50
 msgid "fast in water, +10% fire damage"
 msgstr "rychlý pohyb ve vodě, + 10 % k útoku ohněm"
 
 #. [trait]: id=redwood
-#: Story_of_Wose/utils/traits.cfg:71
 msgid "redwood"
 msgstr "sekvoj"
 
 #. [trait]: id=redwood
-#: Story_of_Wose/utils/traits.cfg:72
 msgid "-10% fire damage"
 msgstr "- 10 % k útoku ohněm"
 
@@ -976,43 +968,41 @@ msgid "Somewhere on the Green Isle"
 msgstr "Kdesi na Zeleném ostrově"
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:18
+#: Story_of_Wose/_main.cfg:17
 msgid "Normal"
 msgstr "Normální"
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:23
+#: Story_of_Wose/_main.cfg:22
 msgid "Hard"
 msgstr "Těžká"
 
-#. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:28
-msgid ""
-"*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,"
-"magenta)=Hard"
-msgstr ""
-
 #. [about]
-#: Story_of_Wose/_main.cfg:35
+#: Story_of_Wose/_main.cfg:31
 msgid "Campaign Design"
 msgstr "Návrh tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:41
+#: Story_of_Wose/_main.cfg:37
 msgid "Campaign Maintenance"
 msgstr "Údržba tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:50
+#: Story_of_Wose/_main.cfg:46
 msgid "French Translation"
 msgstr "Francouzský překlad"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:56
+#: Story_of_Wose/_main.cfg:52
 msgid "Japanese Translation"
 msgstr "Japonský překlad"
 
+#. [about]
+#: Story_of_Wose/_main.cfg:58
+msgid "Czech Translation"
+msgstr "Český překlad"
+
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:83
+#: Story_of_Wose/_main.cfg:84
 msgid "Story of Wose"
 msgstr "Příběh stromouse"
