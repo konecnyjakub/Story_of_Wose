@@ -1,1 +1,4 @@
-.git*		export-ignore
+.git*                   export-ignore
+build.xml               export-ignore
+_server.ign             export-ignore
+_server.pbl.template	export-ignore

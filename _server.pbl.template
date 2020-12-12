@@ -1,0 +1,11 @@
+author="Joshua"
+description="The trees are not always what they seem."
+email="jakub.konecny2@centrum.cz"
+icon="units/woses/wose.png"
+title="Story of the Wose"
+type="campaign"
+version="XXX"
+passphrase="XXX"
+[feedback]
+  topic_id=46073
+[/feedback]
