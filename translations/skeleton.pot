@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Story_of_Wose-1.12\n"
+"Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-02-20 13:17 UTC\n"
+"POT-Creation-Date: 2020-12-12 12:19 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,91 +10,89 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. [unit_type]: id=Green Mage, race=human
-#: Story_of_Wose/units/human-mages/Green-Mage.cfg:5
-msgid "Green Mage"
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
+msgid "Today I want to tell you another story, a mere footnote in the history books if it is even remembered at all."
 msgstr ""
 
-#. [unit_type]: id=Green Mage, race=human
-#: Story_of_Wose/units/human-mages/Green-Mage.cfg:22
-msgid "Green Magi are rumored to exist by the peasants, who assume that they are Magi in training that seek solitude to improve their skill. Nothing could be further from the truth. They are experienced, woodwise, and elusive."
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
+msgid "But as with all such footnotes, the resulting effect on this history of Wesnoth is very large. Didn't they teach you the butterfly effect in school? No?"
 msgstr ""
 
-#. [unit_type]: id=Wood Mage, race=human
-#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:5
-msgid "Wood Mage"
+#. [part]
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
+msgid "Somewhere in the green isle (history has forgotten exactly where), a strange order of Magi had set up operations in some forest. Wood was needed for the construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
 
-#. [unit_type]: id=Wood Mage, race=human
-#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:19
-msgid "The wood mage belongs to a very different order of magi, more akin to the undead than the lawful mages. Their power is mysterious and less understood than even the undead."
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:32
+msgid "Protect the Forest"
 msgstr ""
 
-#. [unit_type]: id=Life Mage, race=human
-#: Story_of_Wose/units/human-mages/Life-Mage.cfg:5
-msgid "Life Mage"
+#. [objective]: condition=lose
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:36
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:36
+#: Story_of_Wose/scenarios/3_Move.cfg:54
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:55
+#: Story_of_Wose/scenarios/5a_Arena.cfg:115
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:211
+msgid "Death of Londerleona"
 msgstr ""
 
-#. [unit_type]: id=Life Mage, race=human
-#: Story_of_Wose/units/human-mages/Life-Mage.cfg:25
-msgid "Life Magi pass themselves off as Green Magi, and so are altogether unknown by the people at large. Even the best scholars have no idea of their abilities."
+#. [side]: type=Lieutenant, id=Gwoddyn
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:50
+msgid "Gwoddyn"
 msgstr ""
 
-#. [unit_type]: id=Pixie, race=pixie
-#. [race]: id=pixie
-#: Story_of_Wose/units/pixies/Pixie.cfg:5
-#: Story_of_Wose/units/races.cfg:5
-msgid "Pixie"
+#. [unit]: type=Fencer, id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:77
+msgid "Tinry"
 msgstr ""
 
-#. [unit_type]: id=Vampire Lady, race=undead
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:4
-msgid "female^Vampire Lady"
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:100
+msgid "Potion of Healing"
 msgstr ""
 
-#. [unit_type]: id=Vampire Lady, race=undead
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:20
-msgid "Cold and beautiful, she maintains her eternal youthful appearance drinking the blood of the living."
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:102
+msgid "This unit is given the power to heal its friends."
 msgstr ""
 
-#. [attack]: type=blade
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:24
-msgid "blood kiss"
+#. [object]: id=heals_object
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:104
+msgid "This unit is given the power to heal itself and its friends."
 msgstr ""
 
-#. [unit_type]: id=Undead Avatar
-#: Story_of_Wose/units/undead/Undead_Avatar.cfg:11
-msgid "Undead Avatar"
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:138
+msgid "What were you expecting, the Ruby of Fire?"
 msgstr ""
 
-#. [unit_type]: id=Undead Avatar
-#: Story_of_Wose/units/undead/Undead_Avatar.cfg:12
-msgid "This looks like an Ancient Lich but something's different about it, and for some reason you're not afraid of it."
+#. [message]: id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:149
+msgid "They've come. Humans from Clearwater Port. They've come to chop down our forest."
 msgstr ""
 
-#. [unit_type]: id=Demilich, race=undead
-#: Story_of_Wose/units/undead/Demilich.cfg:5
-msgid "Demilich"
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:153
+msgid "<b>Must they really?</b>"
 msgstr ""
 
-#. [unit_type]: id=Demilich, race=undead
-#: Story_of_Wose/units/undead/Demilich.cfg:30
-msgid "The mighty Lich Lords were once rulers of powerful cities in the western contanent. The armies they command are experienced, and the lords themselves are truly terrible."
+#. [message]: id=Gwoddyn
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:157
+msgid "Yes, we must. We have houses and docks to build."
 msgstr ""
 
-#. [unit_type]: id=Wose Shaman, race=wose_alt
-#: Story_of_Wose/units/wose/Wose_Shaman.cfg:35
-msgid "These woses are able to command forest plants such as vines and creepers to hinder their enemies."
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
+msgid "What? Destroy our beautiful forest for your stupid houses! This will not stand."
 msgstr ""
 
-#. [race]: id=pixie
-#: Story_of_Wose/units/races.cfg:6
-msgid "Pixies"
-msgstr ""
-
-#. [race]: id=pixie
-#: Story_of_Wose/units/races.cfg:8
-msgid "Closely related to the fairies are the pixies, which really are about three inches tall. They have a particularly whimsical attitude and a protective nature. As such, the fairies, and others, find them useful as messengers."
+#. [message]: id=Tinry
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:165
+msgid "Perhaps you could conjer up a distraction from the mud like you did for the harvest festival."
 msgstr ""
 
 #. [part]
@@ -147,78 +145,6 @@ msgstr ""
 msgid "Ooh. A scroll."
 msgstr ""
 
-#. [scenario]: id=5_Tunnel
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:5
-msgid "The Tunnel"
-msgstr ""
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:207
-msgid "Move Londerleona to the exit in the far east."
-msgstr ""
-
-#. [objective]: condition=lose
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:211
-#: Story_of_Wose/scenarios/2_High_Plain.cfg:36
-#: Story_of_Wose/scenarios/4_Catacomb.cfg:55
-#: Story_of_Wose/scenarios/3_Move.cfg:54
-#: Story_of_Wose/scenarios/5a_Arena.cfg:115
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:36
-msgid "Death of Londerleona"
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:366
-msgid "I think we are safe now."
-msgstr ""
-
-#. [message]
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:390
-#: Story_of_Wose/scenarios/5a_Arena.cfg:184
-msgid "Yipe!"
-msgstr ""
-
-#. [unit]: type=Undead Avatar, id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:450
-msgid "Historian of Wesnoth"
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:495
-msgid "Hello, and welcome to my library."
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:499
-msgid "Allow me to introduce myself. I am the historian of Wesnoth. All that happens, I see and record. It is all here, everything of note."
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:503
-msgid "Right now, the world is young, and written history is not very long. As time passes my library will grow larger. At the last, I expect to have a few square miles of library, all nicely cataloged."
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:507
-msgid "Feel free to look around. Read any book. Just don't wreck things."
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:512
-msgid "To read a book, play another campaign."
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:524
-msgid "Provides a nice ambience, don't you think?"
-msgstr ""
-
-#. [message]: id=historian
-#: Story_of_Wose/scenarios/5_Tunnel.cfg:536
-msgid "Now, if you had teleport ability, that would be a window."
-msgstr ""
-
 #. [part]
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:12
 msgid "One evening shortly thereafter, Londerleona climbed onto the high plain of pinnacles to observe the stars."
@@ -247,6 +173,101 @@ msgstr ""
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:85
 msgid "Yipe! Fire blood!"
+msgstr ""
+
+#. [scenario]: id=3_Move
+#: Story_of_Wose/scenarios/3_Move.cfg:5
+msgid "The Trees Move"
+msgstr ""
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:12
+msgid "The scroll was in fact a description of the spell that would raise corpses to fight for a dark sorcerer."
+msgstr ""
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:15
+msgid "The spell consisted of two pieces. A piece to animate a corpse and a piece to bind the corpse to the will of the sorcerer."
+msgstr ""
+
+#. [part]
+#: Story_of_Wose/scenarios/3_Move.cfg:18
+msgid "Next time men came to the forest, they came in great numbers, to chop it down."
+msgstr ""
+
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/3_Move.cfg:33
+msgid "Survive until end of Turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: Story_of_Wose/scenarios/3_Move.cfg:43
+msgid "Move Londerleona to the temple."
+msgstr ""
+
+#. [objectives]
+#: Story_of_Wose/scenarios/3_Move.cfg:51
+msgid "Defeat all enemy leaders"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Story_of_Wose/scenarios/3_Move.cfg:58
+msgid "Death of Elilmaldur-Rithrandal"
+msgstr ""
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:121
+msgid "Oh my! They are so many. Whatever shall I do?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/3_Move.cfg:125
+msgid "Child, do not despair. There is yet hope."
+msgstr ""
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:130
+msgid "Who spoke?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/3_Move.cfg:135
+msgid "I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset about. Animate the trees, but do not bind them to your will, for these trees have wills of their own."
+msgstr ""
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:140
+msgid "I'll try, sir."
+msgstr ""
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:184
+msgid "Move my children. Avenge yourselves for your brethren."
+msgstr ""
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:214
+msgid "What was that?"
+msgstr ""
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:234
+msgid "The temple!"
+msgstr ""
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:241
+msgid "Something has happened in the catacombs. Black magic has opened up some kind of portal. Go now and see what you can do about it."
+msgstr ""
+
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/3_Move.cfg:262
+msgid "Come on, into the catacombs."
+msgstr ""
+
+#. [message]: id=Elilmaldur-Rithrandal
+#: Story_of_Wose/scenarios/3_Move.cfg:266
+msgid "Don't worry about me. I will wake up more trees and crush these humans."
 msgstr ""
 
 #. [objective]: condition=win
@@ -396,155 +417,10 @@ msgstr ""
 msgid "Aiee, so soon to die again!"
 msgstr ""
 
-#. [scenario]: id=3_Move
-#: Story_of_Wose/scenarios/3_Move.cfg:5
-msgid "The Trees Move"
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:12
-msgid "The scroll was in fact a description of the spell that would raise corpses to fight for a dark sorcerer."
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:15
-msgid "The spell consisted of two pieces. A piece to animate a corpse and a piece to bind the corpse to the will of the sorcerer."
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/3_Move.cfg:18
-msgid "Next time men came to the forest, they came in great numbers, to chop it down."
-msgstr ""
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/3_Move.cfg:33
-msgid "Survive until end of Turns"
-msgstr ""
-
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/3_Move.cfg:43
-msgid "Move Londerleona to the temple."
-msgstr ""
-
-#. [objectives]
-#: Story_of_Wose/scenarios/3_Move.cfg:51
-msgid "Defeat all enemy leaders"
-msgstr ""
-
-#. [objective]: condition=lose
-#: Story_of_Wose/scenarios/3_Move.cfg:58
-msgid "Death of Elilmaldur-Rithrandal"
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:121
-msgid "Oh my! They are so many. Whatever shall I do?"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/3_Move.cfg:125
-msgid "Child, do not despair. There is yet hope."
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:130
-msgid "Who spoke?"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/3_Move.cfg:135
-msgid "I call myself Elilmaldur-Rithrandal. Take that spell that you are so upset about. Animate the trees, but do not bind them to your will, for these trees have wills of their own."
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:140
-msgid "I'll try, sir."
-msgstr ""
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:184
-msgid "Move my children. Avenge yourselves for your brethren."
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:214
-msgid "What was that?"
-msgstr ""
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:234
-msgid "The temple!"
-msgstr ""
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:241
-msgid "Something has happened in the catacombs. Black magic has opened up some kind of portal. Go now and see what you can do about it."
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:262
-msgid "Come on, into the catacombs."
-msgstr ""
-
-#. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:266
-msgid "Don't worry about me. I will wake up more trees and crush these humans."
-msgstr ""
-
-#. [scenario]: id=Epilog
-#: Story_of_Wose/scenarios/Epilog.cfg:5
-msgid "Epilogue"
-msgstr ""
-
-#. [side]: type=Elvish Enchantress, id=Galatiel
-#: Story_of_Wose/scenarios/Epilog.cfg:19
-msgid "Galatiel"
-msgstr ""
-
-#. [unit]: type=Elvish Fighter, id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:33
-msgid "Telcontar"
-msgstr ""
-
-#. [unit]: type=Elvish Captain, id=Isar
-#: Story_of_Wose/scenarios/Epilog.cfg:44
-msgid "Isar"
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/Epilog.cfg:81
-msgid "Sky at last! An look, a forest!"
-msgstr ""
-
-#. [message]: id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:90
-msgid "You are the first besides trolls to come out of that accursed troll hole in years. But what are these?"
-msgstr ""
-
-#. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/Epilog.cfg:94
-msgid "These, my friend, are woses. But where am I? Surely this is not the Green Isle. We only just came a generation ago, but we should surely know if there are elves among us."
-msgstr ""
-
-#. [message]: id=Telcontar
-#: Story_of_Wose/scenarios/Epilog.cfg:98
-msgid "You are a long way from the sea. Perhaps you should have a word with the Lady of the Wood. You seem to have quite a tale to tell."
-msgstr ""
-
-#. [message]: id=Galatiel
-#: Story_of_Wose/scenarios/Epilog.cfg:131
-msgid "Welcome to our forest. May it shelter you and be your home as it is ours. But come, tell us your tale."
-msgstr ""
-
-#. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/Epilog.cfg:135
-msgid "And so the story was told of how the wood magi awakened the trees and how they were the first humans to set foot upon the great continent. Many years later Elilmaldur-Rithrandal would play a key part in the foundation of a great nation of humans upon this continent. The wood magi, elusive as always and distrustful of other humans, would take no part again in history for more than a thousand years."
-msgstr ""
-
 #. [unit]: id=Oracle, type=Necromancer
 #. [unit]: type=Necromancer, id=Oracle
 #: Story_of_Wose/scenarios/5a_Arena.cfg:14
-#: Story_of_Wose/scenarios/5a_Arena.cfg:366
+#: Story_of_Wose/scenarios/5a_Arena.cfg:367
 msgid "Oracle"
 msgstr ""
 
@@ -579,198 +455,327 @@ msgstr ""
 msgid "What's this? Looks like that terror left me a worthy gift."
 msgstr ""
 
-#. [object]: id=The Ruby of Fire
+#. [object]: id=ruby_of_fire
 #: Story_of_Wose/scenarios/5a_Arena.cfg:132
+msgid "The Ruby of Fire"
+msgstr ""
+
+#. [object]: id=ruby_of_fire
+#: Story_of_Wose/scenarios/5a_Arena.cfg:133
 msgid "The Ruby of Fire was imbued with magic in the distant west, and can be used to scorch enemies into submission."
 msgstr ""
 
 #. [effect]: type=fire
-#: Story_of_Wose/scenarios/5a_Arena.cfg:139
+#: Story_of_Wose/scenarios/5a_Arena.cfg:140
 msgid "Ruby of Fire"
 msgstr ""
 
+#. [message]: id=Londerleona
+#. [message]
+#: Story_of_Wose/scenarios/5a_Arena.cfg:185
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:390
+msgid "Yipe!"
+msgstr ""
+
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:188
+#: Story_of_Wose/scenarios/5a_Arena.cfg:189
 msgid "She has killed Lenvan and taken the Ruby of Fire!"
 msgstr ""
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:192
+#: Story_of_Wose/scenarios/5a_Arena.cfg:193
 msgid "I'll take that Ruby myself, thank you."
 msgstr ""
 
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:196
-msgid "No, its Mine!"
+#: Story_of_Wose/scenarios/5a_Arena.cfg:197
+msgid "No, it's Mine!"
 msgstr ""
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:200
+#: Story_of_Wose/scenarios/5a_Arena.cfg:201
 msgid "Fine, I'll kill you too."
 msgstr ""
 
 #. [message]: id=Lich-Lord Caror
-#: Story_of_Wose/scenarios/5a_Arena.cfg:307
+#: Story_of_Wose/scenarios/5a_Arena.cfg:308
 msgid "Now that Jevyan is dead, I'll take that Ruby and rule this city!"
 msgstr ""
 
 #. [message]: id=Lich-Lord Jevyan
-#: Story_of_Wose/scenarios/5a_Arena.cfg:334
+#: Story_of_Wose/scenarios/5a_Arena.cfg:335
 msgid "Now that that usurper is dead, I'll deal with you!"
 msgstr ""
 
 #. [message]: id=Oracle
-#: Story_of_Wose/scenarios/5a_Arena.cfg:372
+#: Story_of_Wose/scenarios/5a_Arena.cfg:373
 msgid "She was right, she shouldn't have come this way."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5a_Arena.cfg:381
+#: Story_of_Wose/scenarios/5a_Arena.cfg:382
 msgid "Well, that's certainly not how the story is supposed to go. What's this? You have written into the book of history and it has come to pass just as you wrote it!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/5a_Arena.cfg:386
+#: Story_of_Wose/scenarios/5a_Arena.cfg:387
 msgid "Well now you've really done it! All that I have taught you, all that we know, has changed."
 msgstr ""
 
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
-msgid "Today I want to tell you another story, a mere footnote in the history books if it is even remembered at all."
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
-msgid "But as with all such footnotes, the resulting effect on this history of Wesnoth is very large. Didn't they teach you the butterfly effect in school? No?"
-msgstr ""
-
-#. [part]
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
-msgid "Somewhere in the green isle (history has forgotten exactly where), a strange order of Magi had set up operations in some forest. Wood was needed for the construction of a nearby town, and so a team was sent from Clearwater Port..."
+#. [scenario]: id=5_Tunnel
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:5
+msgid "The Tunnel"
 msgstr ""
 
 #. [objective]: condition=win
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:32
-msgid "Protect the Forest"
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:207
+msgid "Move Londerleona to the exit in the far east."
 msgstr ""
 
-#. [side]: type=Lieutenant, id=Gwoddyn
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:50
-msgid "Gwoddyn"
+#. [message]: id=Londerleona
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:366
+msgid "I think we are safe now."
 msgstr ""
 
-#. [unit]: type=Fencer, id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:77
-msgid "Tinry"
+#. [unit]: type=Undead Avatar, id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:450
+msgid "Historian of Wesnoth"
 msgstr ""
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:100
-msgid "Potion of Healing"
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:495
+msgid "Hello, and welcome to my library."
 msgstr ""
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:102
-msgid "This unit is given the power to heal its friends."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:499
+msgid "Allow me to introduce myself. I am the historian of Wesnoth. All that happens, I see and record. It is all here, everything of note."
 msgstr ""
 
-#. [object]: id=heals_object
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:104
-msgid "This unit is given the power to heal itself and its friends."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:503
+msgid "Right now, the world is young, and written history is not very long. As time passes my library will grow larger. At the last, I expect to have a few square miles of library, all nicely cataloged."
+msgstr ""
+
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:507
+msgid "Feel free to look around. Read any book. Just don't wreck things."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:138
-msgid "What were you expecting, the Ruby of Fire?"
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:512
+msgid "To read a book, play another campaign."
 msgstr ""
 
-#. [message]: id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:149
-msgid "They've come. Humans from Clearwater Port. They've come to chop down our forest."
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:524
+msgid "Provides a nice ambience, don't you think?"
+msgstr ""
+
+#. [message]: id=historian
+#: Story_of_Wose/scenarios/5_Tunnel.cfg:536
+msgid "Now, if you had teleport ability, that would be a window."
+msgstr ""
+
+#. [scenario]: id=Epilog
+#: Story_of_Wose/scenarios/Epilog.cfg:5
+msgid "Epilogue"
+msgstr ""
+
+#. [side]: type=Elvish Enchantress, id=Galatiel
+#: Story_of_Wose/scenarios/Epilog.cfg:19
+msgid "Galatiel"
+msgstr ""
+
+#. [unit]: type=Elvish Fighter, id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:29
+msgid "Telcontar"
+msgstr ""
+
+#. [unit]: type=Elvish Captain, id=Isar
+#: Story_of_Wose/scenarios/Epilog.cfg:40
+msgid "Isar"
 msgstr ""
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:153
-msgid "<b>Must they really?</b>"
+#: Story_of_Wose/scenarios/Epilog.cfg:77
+msgid "Sky at last! An look, a forest!"
 msgstr ""
 
-#. [message]: id=Gwoddyn
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:157
-msgid "Yes, we must. We have houses and docks to build."
+#. [message]: id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:86
+msgid "You are the first besides trolls to come out of that accursed troll hole in years. But what are these?"
 msgstr ""
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:161
-msgid "What? Destroy our beautiful forest for your stupid houses! This will not stand."
+#: Story_of_Wose/scenarios/Epilog.cfg:90
+msgid "These, my friend, are woses. But where am I? Surely this is not the Green Isle. We only just came a generation ago, but we should surely know if there are elves among us."
 msgstr ""
 
-#. [message]: id=Tinry
-#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:165
-msgid "Perhaps you could conjer up a distraction from the mud like you did for the harvest festival."
+#. [message]: id=Telcontar
+#: Story_of_Wose/scenarios/Epilog.cfg:94
+msgid "You are a long way from the sea. Perhaps you should have a word with the Lady of the Wood. You seem to have quite a tale to tell."
+msgstr ""
+
+#. [message]: id=Galatiel
+#: Story_of_Wose/scenarios/Epilog.cfg:127
+msgid "Welcome to our forest. May it shelter you and be your home as it is ours. But come, tell us your tale."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Story_of_Wose/scenarios/Epilog.cfg:131
+msgid "And so the story was told of how the wood magi awakened the trees and how they were the first humans to set foot upon the great continent. Many years later Elilmaldur-Rithrandal would play a key part in the foundation of a great nation of humans upon this continent. The wood magi, elusive as always and distrustful of other humans, would take no part again in history for more than a thousand years."
+msgstr ""
+
+#. [unit_type]: id=Green Mage, race=human
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:5
+msgid "Green Mage"
+msgstr ""
+
+#. [unit_type]: id=Green Mage, race=human
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:22
+msgid "Green Magi are rumored to exist by the peasants, who assume that they are Magi in training that seek solitude to improve their skill. Nothing could be further from the truth. They are experienced, woodwise, and elusive."
+msgstr ""
+
+#. [unit_type]: id=Life Mage, race=human
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:5
+msgid "Life Mage"
+msgstr ""
+
+#. [unit_type]: id=Life Mage, race=human
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:25
+msgid "Life Magi pass themselves off as Green Magi, and so are altogether unknown by the people at large. Even the best scholars have no idea of their abilities."
+msgstr ""
+
+#. [unit_type]: id=Wood Mage, race=human
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:5
+msgid "Wood Mage"
+msgstr ""
+
+#. [unit_type]: id=Wood Mage, race=human
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:19
+msgid "The wood mage belongs to a very different order of magi, more akin to the undead than the lawful mages. Their power is mysterious and less understood than even the undead."
+msgstr ""
+
+#. [unit_type]: id=Pixie, race=pixie
+#. [race]: id=pixie
+#: Story_of_Wose/units/pixies/Pixie.cfg:5
+#: Story_of_Wose/units/races.cfg:5
+msgid "Pixie"
+msgstr ""
+
+#. [unit_type]: id=Demilich, race=undead
+#: Story_of_Wose/units/undead/Demilich.cfg:5
+msgid "Demilich"
+msgstr ""
+
+#. [unit_type]: id=Demilich, race=undead
+#: Story_of_Wose/units/undead/Demilich.cfg:30
+msgid "The mighty Lich Lords were once rulers of powerful cities in the western contanent. The armies they command are experienced, and the lords themselves are truly terrible."
+msgstr ""
+
+#. [unit_type]: id=Undead Avatar
+#: Story_of_Wose/units/undead/Undead_Avatar.cfg:11
+msgid "Undead Avatar"
+msgstr ""
+
+#. [unit_type]: id=Undead Avatar
+#: Story_of_Wose/units/undead/Undead_Avatar.cfg:12
+msgid "This looks like an Ancient Lich but something's different about it, and for some reason you're not afraid of it."
+msgstr ""
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:4
+msgid "female^Vampire Lady"
+msgstr ""
+
+#. [unit_type]: id=Vampire Lady, race=undead
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:19
+msgid "Cold and beautiful, she maintains her eternal youthful appearance drinking the blood of the living."
+msgstr ""
+
+#. [attack]: type=blade
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:23
+msgid "blood kiss"
+msgstr ""
+
+#. [unit_type]: id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:34
+msgid "These woses are able to command forest plants such as vines and creepers to hinder their enemies."
+msgstr ""
+
+#. [race]: id=pixie
+#: Story_of_Wose/units/races.cfg:6
+msgid "Pixies"
+msgstr ""
+
+#. [race]: id=pixie
+#: Story_of_Wose/units/races.cfg:8
+msgid "Closely related to the fairies are the pixies, which really are about three inches tall. They have a particularly whimsical attitude and a protective nature. As such, the fairies, and others, find them useful as messengers."
 msgstr ""
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
-#: Story_of_Wose/utils/amla.cfg:9
+#:Story_of_Wose/utils/amla.cfg:9
 msgid "Max HP bonus +"
 msgstr ""
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/utils/deaths.cfg:11
+#:Story_of_Wose/utils/deaths.cfg:11
 msgid "Owhh."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Story_of_Wose/utils/deaths.cfg:29
+#:Story_of_Wose/utils/deaths.cfg:23
 msgid "I'm sorry but that death changes history too much for me."
 msgstr ""
 
 #. [trait]: id=oak
-#: Story_of_Wose/utils/traits.cfg:6
+#:Story_of_Wose/utils/traits.cfg:6
 msgid "oak"
 msgstr ""
 
 #. [trait]: id=oak
-#: Story_of_Wose/utils/traits.cfg:7
+#:Story_of_Wose/utils/traits.cfg:7
 msgid "-10% blade damage"
 msgstr ""
 
 #. [trait]: id=elm
-#: Story_of_Wose/utils/traits.cfg:20
+#:Story_of_Wose/utils/traits.cfg:20
 msgid "elm"
 msgstr ""
 
 #. [trait]: id=elm
-#: Story_of_Wose/utils/traits.cfg:21
+#:Story_of_Wose/utils/traits.cfg:21
 msgid "-10% impact damage"
 msgstr ""
 
 #. [trait]: id=pine
-#: Story_of_Wose/utils/traits.cfg:34
+#:Story_of_Wose/utils/traits.cfg:34
 msgid "pine"
 msgstr ""
 
 #. [trait]: id=pine
-#: Story_of_Wose/utils/traits.cfg:35
+#:Story_of_Wose/utils/traits.cfg:35
 msgid "-10% pierce & cold damage"
 msgstr ""
 
 #. [trait]: id=willow
-#: Story_of_Wose/utils/traits.cfg:49
+#:Story_of_Wose/utils/traits.cfg:49
 msgid "willow"
 msgstr ""
 
 #. [trait]: id=willow
-#: Story_of_Wose/utils/traits.cfg:50
+#:Story_of_Wose/utils/traits.cfg:50
 msgid "fast in water, +10% fire damage"
 msgstr ""
 
 #. [trait]: id=redwood
-#: Story_of_Wose/utils/traits.cfg:71
+#:Story_of_Wose/utils/traits.cfg:71
 msgid "redwood"
 msgstr ""
 
 #. [trait]: id=redwood
-#: Story_of_Wose/utils/traits.cfg:72
+#:Story_of_Wose/utils/traits.cfg:72
 msgid "-10% fire damage"
 msgstr ""
 
@@ -806,42 +811,42 @@ msgid "Somewhere on the Green Isle"
 msgstr ""
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:18
+#: Story_of_Wose/_main.cfg:17
 msgid "Normal"
 msgstr ""
 
 #. [difficulty]
-#: Story_of_Wose/_main.cfg:23
+#: Story_of_Wose/_main.cfg:22
 msgid "Hard"
 msgstr ""
 
-#. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:28
-msgid "*&units/woses/wose.png~TC(1,magenta)=Normal;&units/woses/wose-elder.png~TC(1,magenta)=Hard"
-msgstr ""
-
 #. [about]
-#: Story_of_Wose/_main.cfg:35
+#: Story_of_Wose/_main.cfg:31
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:41
+#: Story_of_Wose/_main.cfg:37
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:50
+#: Story_of_Wose/_main.cfg:46
 msgid "French Translation"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:56
+#: Story_of_Wose/_main.cfg:52
 msgid "Japanese Translation"
 msgstr ""
 
+#. [about]
+#: Story_of_Wose/_main.cfg:58
+msgid "Czech Translation"
+msgstr ""
+
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:83
+#: Story_of_Wose/_main.cfg:84
 msgid "Story of Wose"
 msgstr ""
 
