@@ -8,5 +8,10 @@ version="XXX"
 passphrase="XXX"
 tags=wose,woses,green isle,mage,mages,oldwood,ruby of fire,lich lords
 [feedback]
-  topic_id=46073
+    topic_id=46073
 [/feedback]
+[translation]
+    language="cs"
+	title="Příběh stromouse"
+    description="Stromy nejsou vždy takové, jaké se zdají."
+[/translation]
