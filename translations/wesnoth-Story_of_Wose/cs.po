@@ -916,7 +916,7 @@ msgstr ""
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
 #: Story_of_Wose/utils/amla.cfg:9
 msgid "Max HP bonus +"
-msgstr "Maximální bonus k životům + 3"
+msgstr "Maximální bonus k životům +"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/utils/deaths.cfg:11
