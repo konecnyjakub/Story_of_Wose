@@ -2,6 +2,7 @@ Version 0.10.0-dev
 - dropped support for Wesnoth 1.12
 - added Czech translation
 - added add-on's version to campaign's description
+- updated portrait for Elilmaldur-Rithrandal
 
 Version 0.9.0
 - changed Ruby of Fire's attack to 14-4
