@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-12 12:48 UTC\n"
-"PO-Revision-Date: 2020-12-12 13:52+0100\n"
-"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-13 13:14+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,8 @@ msgid ""
 "Today I want to tell you another story, a mere footnote in the history books "
 "if it is even remembered at all."
 msgstr ""
+"Dnes vám chci vyprávět jiný příběh, příběh málo známý, co je v historických "
+"knihách pouhou poznámkou pod čarou, pokud je tedy vůbec zaznamenán."
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:15
@@ -27,6 +29,9 @@ msgid ""
 "Wesnoth is very large. Didn't they teach you the butterfly effect in school? "
 "No?"
 msgstr ""
+"Ale stejně jako u všech podobných poznámek pod čarou je výsledný efekt "
+"příběhu na související historii Wesnothu velmi velký. Neučili vás snad ve "
+"škole o efektu motýlích křídel? Ne?"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
@@ -414,16 +419,18 @@ msgid ""
 "You've been spying on the orcs too, from what I hear in this portal. Now "
 "somebody's going to have to clean up after this mess."
 msgstr ""
+"Podle toho, co jsem slyšel v tom portálu, jsi také špehoval skřety. Teď bude "
+"muset někdo ten nepořádek uklidit."
 
 #. [message]: id=Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:164
 msgid "All right, I'll try to close it. Brace yourself."
-msgstr ""
+msgstr "Dobrá, zkusím to zavřít. Držte se."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:173
 msgid "Look out, the water's rising!"
-msgstr ""
+msgstr "Podívejte, voda stoupá!"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:186
@@ -438,17 +445,17 @@ msgstr "Všichni zemřeme."
 #. [message]: id=Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:194
 msgid "That didn't work. Somebody will have to go inside and close it."
-msgstr ""
+msgstr "Nefungovalo to. Někdo bude muset jít dovnitř a zavřít to."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:201
 msgid "That's a good idea. In you go now, and close that portal."
-msgstr ""
+msgstr "Dobrý nápad. Tak běž a zavři ten portál."
 
 #. [message]: id=Caror
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:208
 msgid "You made the portal, you close it. I won't!"
-msgstr ""
+msgstr "Ty jsi portál vytvořil, ty bys ho měl zavřít. Ne já!"
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:223
@@ -456,6 +463,8 @@ msgid ""
 "Trying to get rid of me, eh? I'll go in there and close the portal, but when "
 "I return, I will punish you properly for this."
 msgstr ""
+"Snažíš se mě zbavit, hm? Půjdu tam a zavřu portál. Ale až se vrátím, pořádně "
+"tě za to potrestám."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:227
@@ -475,12 +484,12 @@ msgstr "Nejdřív ti špinaví skřeti, teď tyhle ošklivé věci. To je svinč
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:327
 msgid "Enalcalae Talacalar Argime"
-msgstr ""
+msgstr "Enalcalae Talacalar Argime"
 
 #. [message]: type=Orcish Warrior
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:339
 msgid "Look out! The ceiling is collapsing."
-msgstr ""
+msgstr "Podívejte! Hroutí se strop."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:343
@@ -488,11 +497,15 @@ msgid ""
 "No it isn't. The portal is unphasing. You better scram or there won't be so "
 "much as a body left for me to raise."
 msgstr ""
+"Ale kdepak. To se destabilizuje portál. Měli byste vypadnout nebo z vašich "
+"těl nezbude nic, co bych mohl pozvednout."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:347
 msgid "Shudder. We best take his advise. I think the east passage is clear."
 msgstr ""
+"Vše se třese. Asi by bylo nejlepší se zachovat podle jeho rady. Myslím, že "
+"východní průchod je volný."
 
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:374
@@ -613,6 +626,8 @@ msgid ""
 "have written into the book of history and it has come to pass just as you "
 "wrote it!"
 msgstr ""
+"No, takhle se příběh rozhodně vyvíjet neměl. Co to jako je? Udělala jsi do "
+"knihy historie poznámku a historie se tomu přesně přizpůsobila!"
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/5a_Arena.cfg:387
@@ -620,6 +635,8 @@ msgid ""
 "Well now you've really done it! All that I have taught you, all that we "
 "know, has changed."
 msgstr ""
+"No a teď jsi to opravdu dovedla někam! Vše, co jsem tě naučil, všechno, co "
+"víme, se změnilo."
 
 #. [scenario]: id=5_Tunnel
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:5
@@ -728,6 +745,9 @@ msgid ""
 "Isle. We only just came a generation ago, but we should surely know if there "
 "are elves among us."
 msgstr ""
+"To jsou, příteli, stromoví lidé. Ale kde to jsem? Tohle určitě není Zelený "
+"ostrov. Přišli jsme na něj sice teprve před jednou generací, ale určitě "
+"bychom měli vědět, že na něm mezi námi žijí elfové."
 
 #. [message]: id=Telcontar
 #: Story_of_Wose/scenarios/Epilog.cfg:94
@@ -735,6 +755,8 @@ msgid ""
 "You are a long way from the sea. Perhaps you should have a word with the "
 "Lady of the Wood. You seem to have quite a tale to tell."
 msgstr ""
+"Jste daleko od moře. Možná by sis měla promluvit s Lesní paní. Vypadá to, že "
+"tvůj příběh by stál za slyšení."
 
 #. [message]: id=Galatiel
 #: Story_of_Wose/scenarios/Epilog.cfg:127
@@ -742,6 +764,8 @@ msgid ""
 "Welcome to our forest. May it shelter you and be your home as it is ours. "
 "But come, tell us your tale."
 msgstr ""
+"Vítejte v našem lese. Kéž vám poskytne úkryt a bude vám domovem, stejně jako "
+"nám. Ale teď pojď a řekni nám svůj příběh."
 
 #. [message]: speaker=narrator
 #: Story_of_Wose/scenarios/Epilog.cfg:131
@@ -753,6 +777,12 @@ msgid ""
 "and distrustful of other humans, would take no part again in history for "
 "more than a thousand years."
 msgstr ""
+"A tak byl vyprávěn příběh o tom, jak lesní mágové probudili stromy a jak se "
+"stali prvními lidmi, co vstoupili na Velký kontinent. O mnoho let později "
+"bude Elilmaldur-Rithrandal hrát klíčovou roli při založení velkého lidského "
+"národa na tomto kontinentu. Lesní mágové, zachovávajíce si svou "
+"nepolapitelnost a nedůvěřivost vůči ostatním lidem, by pak po více než tisíc "
+"let neměli do historie zasahovat."
 
 #. [unit_type]: id=Green Mage, race=human
 #: Story_of_Wose/units/human-mages/Green-Mage.cfg:5
@@ -885,9 +915,8 @@ msgstr ""
 
 #. [advancement]: id=amla_tough_{HP_ADVANCE_NUMBER}
 #: Story_of_Wose/utils/amla.cfg:9
-#, fuzzy
 msgid "Max HP bonus +"
-msgstr "Max HP bonus +3, Max XP +20%"
+msgstr "Maximální bonus k životům + 3"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/utils/deaths.cfg:11
