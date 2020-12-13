@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-12 12:48 UTC\n"
-"PO-Revision-Date: 2020-12-13 13:14+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"POT-Creation-Date: 2020-12-13 15:44 UTC\n"
+"PO-Revision-Date: 2020-12-13 16:47+0100\n"
+"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -267,7 +267,9 @@ msgid "Move Londerleona to the temple."
 msgstr "Přesuň Londerleonu do chrámu."
 
 #. [objectives]
+#. [objective]: condition=win
 #: Story_of_Wose/scenarios/3_Move.cfg:51
+#: Story_of_Wose/scenarios/5a_Arena.cfg:111
 msgid "Defeat all enemy leaders"
 msgstr "Poraz všechny nepřátelské vůdce"
 
@@ -342,7 +344,7 @@ msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme."
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
-msgid "Explore the cave."
+msgid "Explore the cave"
 msgstr "Prozkoumej jeskyni"
 
 #. [objective]: condition=win
@@ -543,11 +545,6 @@ msgstr "Londerleona"
 msgid "Lich-Lord Jevyan"
 msgstr "Lord-lich Jevyan"
 
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/5a_Arena.cfg:111
-msgid "Defeat all Enemy Leaders"
-msgstr "Poraz všechny nepřátelské vůdce"
-
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:124
 msgid "I have a feeling I wasn't supposed to come this way."
@@ -645,7 +642,7 @@ msgstr "Tunel"
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:207
-msgid "Move Londerleona to the exit in the far east."
+msgid "Move Londerleona to the exit in the far east"
 msgstr "Přesuň Londerleonu úplně na východ na konec tunelu"
 
 #. [message]: id=Londerleona
@@ -1053,3 +1050,6 @@ msgstr "Český překlad"
 #: Story_of_Wose/_main.cfg:86
 msgid "Story of Wose"
 msgstr "Příběh stromouse"
+
+#~ msgid "Defeat all Enemy Leaders"
+#~ msgstr "Poraz všechny nepřátelské vůdce"

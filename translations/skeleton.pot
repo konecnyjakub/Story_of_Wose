@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-12 12:48 UTC\n"
+"POT-Creation-Date: 2020-12-13 15:44 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -206,7 +206,9 @@ msgid "Move Londerleona to the temple."
 msgstr ""
 
 #. [objectives]
+#. [objective]: condition=win
 #: Story_of_Wose/scenarios/3_Move.cfg:51
+#: Story_of_Wose/scenarios/5a_Arena.cfg:111
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -272,7 +274,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
-msgid "Explore the cave."
+msgid "Explore the cave"
 msgstr ""
 
 #. [objective]: condition=win
@@ -440,11 +442,6 @@ msgstr ""
 msgid "Lich-Lord Jevyan"
 msgstr ""
 
-#. [objective]: condition=win
-#: Story_of_Wose/scenarios/5a_Arena.cfg:111
-msgid "Defeat all Enemy Leaders"
-msgstr ""
-
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/5a_Arena.cfg:124
 msgid "I have a feeling I wasn't supposed to come this way."
@@ -529,7 +526,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/5_Tunnel.cfg:207
-msgid "Move Londerleona to the exit in the far east."
+msgid "Move Londerleona to the exit in the far east"
 msgstr ""
 
 #. [message]: id=Londerleona
