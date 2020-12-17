@@ -3,6 +3,7 @@ Version 0.10.0-dev
 - added Czech translation
 - added add-on's version to campaign's description
 - updated portrait for Elilmaldur-Rithrandal
+- added names for difficulty levels
 
 Version 0.9.0
 - changed Ruby of Fire's attack to 14-4
