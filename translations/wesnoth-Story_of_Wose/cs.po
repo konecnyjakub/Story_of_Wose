@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-17 19:47 UTC\n"
-"PO-Revision-Date: 2020-12-18 21:58+0100\n"
+"PO-Revision-Date: 2020-12-19 21:02+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -306,12 +306,12 @@ msgstr ""
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:140
 msgid "I'll try, sir."
-msgstr "Pokusím se pane."
+msgstr "Pokusím se, pane."
 
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:184
 msgid "Move my children. Avenge yourselves for your brethren."
-msgstr "Jdi dítě. Pomsti se za své bratry."
+msgstr "Jděte, mé děti. Pomstěte se za své bratry."
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/3_Move.cfg:214
