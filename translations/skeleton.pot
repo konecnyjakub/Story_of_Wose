@@ -2,13 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-17 19:47 UTC\n"
+"POT-Creation-Date: 2020-12-20 17:43 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. [scenario]: id=1_The_Oldwood
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:5
+msgid "The Oldwood"
+msgstr ""
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
@@ -95,6 +100,11 @@ msgstr ""
 msgid "Perhaps you could conjer up a distraction from the mud like you did for the harvest festival."
 msgstr ""
 
+#. [scenario]: id=2s_The_Begger
+#: Story_of_Wose/scenarios/2s_The_Beggar.cfg:5
+msgid "The Beggar"
+msgstr ""
+
 #. [part]
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:12
 msgid "Men kept at the forest. Londerleona would chase them away. They never did get to the center, but kept widdling away at the sides."
@@ -143,6 +153,11 @@ msgstr ""
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:88
 msgid "Ooh. A scroll."
+msgstr ""
+
+#. [scenario]: id=2_High_Plain
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:5
+msgid "The High Plain"
 msgstr ""
 
 #. [part]
@@ -270,6 +285,11 @@ msgstr ""
 #. [message]: id=Elilmaldur-Rithrandal
 #: Story_of_Wose/scenarios/3_Move.cfg:266
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
+msgstr ""
+
+#. [scenario]: id=4_The_Catacombs
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:5
+msgid "The Catacombs"
 msgstr ""
 
 #. [objective]: condition=win
@@ -417,6 +437,11 @@ msgstr ""
 #. [message]: id=Lich-Lord Lenvan
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:393
 msgid "Aiee, so soon to die again!"
+msgstr ""
+
+#. [scenario]: id=5a_Arena
+#: Story_of_Wose/scenarios/5a_Arena.cfg:5
+msgid "Arena"
 msgstr ""
 
 #. [unit]: id=Oracle, type=Necromancer
@@ -694,6 +719,11 @@ msgstr ""
 #. [attack]: type=blade
 #: Story_of_Wose/units/undead/Vampire_Lady.cfg:23
 msgid "blood kiss"
+msgstr ""
+
+#. [unit_type]: id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:5
+msgid "Wose Shaman"
 msgstr ""
 
 #. [unit_type]: id=Wose Shaman, race=wose_alt

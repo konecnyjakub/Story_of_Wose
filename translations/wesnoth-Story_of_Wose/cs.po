@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-17 19:47 UTC\n"
-"PO-Revision-Date: 2020-12-20 12:08+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"POT-Creation-Date: 2020-12-20 17:43 UTC\n"
+"PO-Revision-Date: 2020-12-20 18:49+0100\n"
+"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -12,6 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.4.2\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+
+#. [scenario]: id=1_The_Oldwood
+#: Story_of_Wose/scenarios/1_The_Oldwood.cfg:5
+msgid "The Oldwood"
+msgstr "Starý les"
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:12
@@ -122,6 +127,11 @@ msgstr ""
 "Možná bys mohla vyvolat rozptýlení bahnem, tak jako jsi to udělala na "
 "dožínkách."
 
+#. [scenario]: id=2s_The_Begger
+#: Story_of_Wose/scenarios/2s_The_Beggar.cfg:5
+msgid "The Beggar"
+msgstr "Žebrák"
+
 #. [part]
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:12
 msgid ""
@@ -185,6 +195,11 @@ msgstr "Hleďme, něco upustil."
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:88
 msgid "Ooh. A scroll."
 msgstr "Hmm. Svitek."
+
+#. [scenario]: id=2_High_Plain
+#: Story_of_Wose/scenarios/2_High_Plain.cfg:5
+msgid "The High Plain"
+msgstr "Vysoká planina"
 
 #. [part]
 #: Story_of_Wose/scenarios/2_High_Plain.cfg:12
@@ -341,6 +356,11 @@ msgstr "Tak vzhůru do katakomb."
 #: Story_of_Wose/scenarios/3_Move.cfg:266
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
 msgstr "Neboj se o mě. Probudím další stromy a ty lidi rozdrtíme."
+
+#. [scenario]: id=4_The_Catacombs
+#: Story_of_Wose/scenarios/4_Catacomb.cfg:5
+msgid "The Catacombs"
+msgstr "Katakomby"
 
 #. [objective]: condition=win
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:24
@@ -518,6 +538,11 @@ msgstr "Vy troufalci jste na mě zaútočili!"
 #: Story_of_Wose/scenarios/4_Catacomb.cfg:393
 msgid "Aiee, so soon to die again!"
 msgstr "Aúú, zase umírám tak brzy!"
+
+#. [scenario]: id=5a_Arena
+#: Story_of_Wose/scenarios/5a_Arena.cfg:5
+msgid "Arena"
+msgstr "Aréna"
 
 #. [unit]: id=Oracle, type=Necromancer
 #. [unit]: type=Necromancer, id=Oracle
@@ -884,6 +909,11 @@ msgstr ""
 #: Story_of_Wose/units/undead/Vampire_Lady.cfg:23
 msgid "blood kiss"
 msgstr "krvavý polibek"
+
+#. [unit_type]: id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:5
+msgid "Wose Shaman"
+msgstr "Stromový šaman"
 
 #. [unit_type]: id=Wose Shaman, race=wose_alt
 #: Story_of_Wose/units/wose/Wose_Shaman.cfg:34
