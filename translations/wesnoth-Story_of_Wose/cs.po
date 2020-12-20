@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2020-12-17 19:47 UTC\n"
-"PO-Revision-Date: 2020-12-19 21:02+0100\n"
-"Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
+"PO-Revision-Date: 2020-12-20 12:08+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -143,7 +143,7 @@ msgstr ""
 #. [unit]: type=Dark Adept, id=Beggar
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:50
 msgid "Beggar"
-msgstr "Beggar"
+msgstr "Žebrák"
 
 #. [message]: id=Londerleona
 #: Story_of_Wose/scenarios/2s_The_Beggar.cfg:54
@@ -953,7 +953,7 @@ msgstr "borovice"
 #. [trait]: id=pine
 #: Story_of_Wose/utils/traits.cfg:35
 msgid "-10% pierce & cold damage"
-msgstr "- 10 % k útoku botnutím a chladem"
+msgstr "- 10 % k útoku bodnutím a chladem"
 
 #. [trait]: id=willow
 #: Story_of_Wose/utils/traits.cfg:49
