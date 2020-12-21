@@ -1,6 +1,7 @@
 .*
 .*/
 __MACOSX/
+.github/
 #*#
 *~
 *-bak
