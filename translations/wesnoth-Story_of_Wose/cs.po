@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-20 17:43 UTC\n"
-"PO-Revision-Date: 2020-12-20 18:49+0100\n"
+"POT-Creation-Date: 2020-12-21 12:51 UTC\n"
+"PO-Revision-Date: 2020-12-21 13:55+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -1037,57 +1037,68 @@ msgid "Somewhere on the Green Isle"
 msgstr "Kdesi na Zeleném ostrově"
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:16
+#: Story_of_Wose/_main.cfg:14
+msgid ""
+"\n"
+"\n"
+"(Intermediate level, 5 scenarios)"
+msgstr ""
+"\n"
+"\n"
+"(Obtížnost: pokročilý hráč, 5 scénářů)"
+
+#. [campaign]: id=Story_of_the_Wose
+#: Story_of_Wose/_main.cfg:18
 msgid "Version:"
 msgstr "Verze:"
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:17
+#: Story_of_Wose/_main.cfg:19
 msgid "Sapling"
 msgstr "Sazenek"
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:17
+#: Story_of_Wose/_main.cfg:19
 msgid "Normal"
 msgstr "Normální"
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:18
+#: Story_of_Wose/_main.cfg:20
 msgid "Elder Wose"
 msgstr "Starý stromový muž"
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:18
+#: Story_of_Wose/_main.cfg:20
 msgid "Hard"
 msgstr "Těžká"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:25
+#: Story_of_Wose/_main.cfg:27
 msgid "Campaign Design"
 msgstr "Návrh tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:31
+#: Story_of_Wose/_main.cfg:33
 msgid "Campaign Maintenance"
 msgstr "Údržba tažení"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:40
+#: Story_of_Wose/_main.cfg:42
 msgid "French Translation"
 msgstr "Francouzský překlad"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:46
+#: Story_of_Wose/_main.cfg:48
 msgid "Japanese Translation"
 msgstr "Japonský překlad"
 
 #. [about]
-#: Story_of_Wose/_main.cfg:52
+#: Story_of_Wose/_main.cfg:54
 msgid "Czech Translation"
 msgstr "Český překlad"
 
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:81
+#: Story_of_Wose/_main.cfg:83
 msgid "Story of Wose"
 msgstr "Příběh stromouse"
 
