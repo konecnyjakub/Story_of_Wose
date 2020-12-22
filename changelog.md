@@ -2,7 +2,7 @@ Version 0.10.0-dev
 - dropped support for Wesnoth 1.12
 - added Czech translation
 - added campaign difficulty, scenario count and add-on's version to campaign's description
-- updated portrait for Elilmaldur-Rithrandal
+- updated portrait for Elilmaldur-Rithrandal and narrator
 - added names for difficulty levels
 - BC break: changed id of Wose Shaman on Wesnoth 1.15.1+
 
