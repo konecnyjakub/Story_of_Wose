@@ -5,6 +5,7 @@ Version 0.10.0-dev
 - updated portrait for Elilmaldur-Rithrandal and narrator
 - added names for difficulty levels
 - BC break: changed id of Wose Shaman on Wesnoth 1.15.1+
+- added background for campaign (on Wesnoth 1.15)
 
 Version 0.9.0
 - changed Ruby of Fire's attack to 14-4
