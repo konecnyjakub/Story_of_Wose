@@ -11,6 +11,9 @@
 /_server.ign                                @konecnyjakub
 .gitattributes                              @konecnyjakub
 
+# Continous integration/deployment
+/.gitlab-ci.yml                             @konecnyjakub
+
 # Translations
 /translations/skeleton.pot                  @konecnyjakub
 /translations/wesnoth-Story_of_Wose/cs.po   @konecnyjakub
