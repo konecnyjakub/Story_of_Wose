@@ -1,0 +1,12 @@
+stages:
+  - test
+
+.test_job: &test_job
+  stage: test
+  
+  script:
+    - /usr/share/games/wesnoth/1.14/data/tools/wmllint --dryrun /usr/share/games/wesnoth/1.14/data/core .
+
+test:default:           
+  <<: *test_job                        
+  image: konecnyjakub/wesnoth:1.14 
