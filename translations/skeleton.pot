@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Story_of_Wose-1.14\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2020-12-21 12:51 UTC\n"
+"POT-Creation-Date: 2021-05-22 14:38 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #. [part]
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:18
-msgid "Somewhere in the green isle (history has forgotten exactly where), a strange order of Magi had set up operations in some forest. Wood was needed for the construction of a nearby town, and so a team was sent from Clearwater Port..."
+msgid "Somewhere in the Green Isle (history has forgotten exactly where), a strange order of Magi had set up operations in some forest. Wood was needed for the construction of a nearby town, and so a team was sent from Clearwater Port..."
 msgstr ""
 
 #. [objective]: condition=win
@@ -97,7 +97,7 @@ msgstr ""
 
 #. [message]: id=Tinry
 #: Story_of_Wose/scenarios/1_The_Oldwood.cfg:165
-msgid "Perhaps you could conjer up a distraction from the mud like you did for the harvest festival."
+msgid "Perhaps you could conjure up a distraction from the mud like you did for the harvest festival."
 msgstr ""
 
 #. [scenario]: id=2s_The_Begger
@@ -258,32 +258,32 @@ msgid "I'll try, sir."
 msgstr ""
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:184
+#: Story_of_Wose/scenarios/3_Move.cfg:188
 msgid "Move my children. Avenge yourselves for your brethren."
 msgstr ""
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:214
+#: Story_of_Wose/scenarios/3_Move.cfg:218
 msgid "What was that?"
 msgstr ""
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:234
+#: Story_of_Wose/scenarios/3_Move.cfg:238
 msgid "The temple!"
 msgstr ""
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:241
+#: Story_of_Wose/scenarios/3_Move.cfg:245
 msgid "Something has happened in the catacombs. Black magic has opened up some kind of portal. Go now and see what you can do about it."
 msgstr ""
 
 #. [message]: id=Londerleona
-#: Story_of_Wose/scenarios/3_Move.cfg:262
+#: Story_of_Wose/scenarios/3_Move.cfg:266
 msgid "Come on, into the catacombs."
 msgstr ""
 
 #. [message]: id=Elilmaldur-Rithrandal
-#: Story_of_Wose/scenarios/3_Move.cfg:266
+#: Story_of_Wose/scenarios/3_Move.cfg:270
 msgid "Don't worry about me. I will wake up more trees and crush these humans."
 msgstr ""
 
@@ -655,7 +655,8 @@ msgid "Green Mage"
 msgstr ""
 
 #. [unit_type]: id=Green Mage, race=human
-#: Story_of_Wose/units/human-mages/Green-Mage.cfg:22
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:23
+#: Story_of_Wose/units/human-mages/Green-Mage.cfg:28
 msgid "Green Magi are rumored to exist by the peasants, who assume that they are Magi in training that seek solitude to improve their skill. Nothing could be further from the truth. They are experienced, woodwise, and elusive."
 msgstr ""
 
@@ -665,7 +666,8 @@ msgid "Life Mage"
 msgstr ""
 
 #. [unit_type]: id=Life Mage, race=human
-#: Story_of_Wose/units/human-mages/Life-Mage.cfg:25
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:26
+#: Story_of_Wose/units/human-mages/Life-Mage.cfg:33
 msgid "Life Magi pass themselves off as Green Magi, and so are altogether unknown by the people at large. Even the best scholars have no idea of their abilities."
 msgstr ""
 
@@ -675,7 +677,8 @@ msgid "Wood Mage"
 msgstr ""
 
 #. [unit_type]: id=Wood Mage, race=human
-#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:19
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:20
+#: Story_of_Wose/units/human-mages/Wood-Mage.cfg:23
 msgid "The wood mage belongs to a very different order of magi, more akin to the undead than the lawful mages. Their power is mysterious and less understood than even the undead."
 msgstr ""
 
@@ -693,7 +696,8 @@ msgstr ""
 
 #. [unit_type]: id=Demilich, race=undead
 #: Story_of_Wose/units/undead/Demilich.cfg:30
-msgid "The mighty Lich Lords were once rulers of powerful cities in the western contanent. The armies they command are experienced, and the lords themselves are truly terrible."
+#: Story_of_Wose/units/undead/Demilich.cfg:36
+msgid "The mighty Lich Lords were once rulers of powerful cities in the western continent. The armies they command are experienced, and the lords themselves are truly terrible."
 msgstr ""
 
 #. [unit_type]: id=Undead Avatar
@@ -712,22 +716,23 @@ msgid "female^Vampire Lady"
 msgstr ""
 
 #. [unit_type]: id=Vampire Lady, race=undead
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:19
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:20
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:24
 msgid "Cold and beautiful, she maintains her eternal youthful appearance drinking the blood of the living."
 msgstr ""
 
 #. [attack]: type=blade
-#: Story_of_Wose/units/undead/Vampire_Lady.cfg:23
+#: Story_of_Wose/units/undead/Vampire_Lady.cfg:29
 msgid "blood kiss"
 msgstr ""
 
-#. [unit_type]: id=Wose Shaman, race=wose_alt
-#: Story_of_Wose/units/wose/Wose_Shaman.cfg:5
+#. [unit_type]: id=Wose Shaman_alt, id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:11
 msgid "Wose Shaman"
 msgstr ""
 
-#. [unit_type]: id=Wose Shaman, race=wose_alt
-#: Story_of_Wose/units/wose/Wose_Shaman.cfg:34
+#. [unit_type]: id=Wose Shaman_alt, id=Wose Shaman, race=wose_alt
+#: Story_of_Wose/units/wose/Wose_Shaman.cfg:25
 msgid "These woses are able to command forest plants such as vines and creepers to hinder their enemies."
 msgstr ""
 
@@ -823,22 +828,22 @@ msgid "Cave Shadow"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:12
+#: Story_of_Wose/_main.cfg:13
 msgid "The Story of the Wose"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:13
+#: Story_of_Wose/_main.cfg:14
 msgid "SotW"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:14
+#: Story_of_Wose/_main.cfg:15
 msgid "Somewhere on the Green Isle"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:14
+#: Story_of_Wose/_main.cfg:15
 msgid ""
 "\n"
 "\n"
@@ -846,57 +851,57 @@ msgid ""
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:18
+#: Story_of_Wose/_main.cfg:19
 msgid "Version:"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:19
+#: Story_of_Wose/_main.cfg:20
 msgid "Sapling"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:19
+#: Story_of_Wose/_main.cfg:20
 msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:20
+#: Story_of_Wose/_main.cfg:21
 msgid "Elder Wose"
 msgstr ""
 
 #. [campaign]: id=Story_of_the_Wose
-#: Story_of_Wose/_main.cfg:20
+#: Story_of_Wose/_main.cfg:21
 msgid "Hard"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:27
+#: Story_of_Wose/_main.cfg:30
 msgid "Campaign Design"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:33
+#: Story_of_Wose/_main.cfg:36
 msgid "Campaign Maintenance"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:42
+#: Story_of_Wose/_main.cfg:45
 msgid "French Translation"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:48
+#: Story_of_Wose/_main.cfg:51
 msgid "Japanese Translation"
 msgstr ""
 
 #. [about]
-#: Story_of_Wose/_main.cfg:54
+#: Story_of_Wose/_main.cfg:57
 msgid "Czech Translation"
 msgstr ""
 
 #. [editor_group]: id=SoW
-#: Story_of_Wose/_main.cfg:83
+#: Story_of_Wose/_main.cfg:86
 msgid "Story of Wose"
 msgstr ""
 
