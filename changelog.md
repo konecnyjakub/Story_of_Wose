@@ -1,4 +1,4 @@
-Version 0.10.0-dev
+Version 0.10.0
 
 - dropped support for Wesnoth 1.12 and 1.14
 - added Czech translation
