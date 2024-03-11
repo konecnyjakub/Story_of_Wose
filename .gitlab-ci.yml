@@ -9,6 +9,6 @@ stages:
 
 test:default:
   <<: *test_job
-  image: konecnyjakub/wesnoth:1.14
+  image: konecnyjakub/wesnoth:1.16
   variables:
-    VERSION: "1.14"
+    VERSION: "1.16"
