@@ -1,4 +1,4 @@
-Version 0.10.0+dev
+Version 0.11.0
 
 - dropped support for Wesnoth 1.16
 
@@ -147,4 +147,4 @@ Version 0.02
 
 Version 0.01
 
-- original Version
+- original Version``
