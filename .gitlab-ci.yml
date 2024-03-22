@@ -5,7 +5,7 @@ stages:
   stage: test
   
   script:
-    - /usr/share/games/wesnoth/data/tools/wmllint --dryrun /usr/share/games/wesnoth/$VERSION/data/core .
+    - /usr/share/games/wesnoth/data/tools/wmllint --dryrun /usr/share/games/wesnoth/data/core .
 
 test:default:
   <<: *test_job
