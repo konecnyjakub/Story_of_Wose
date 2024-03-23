@@ -1,5 +1,6 @@
 stages:
   - test
+  - publish
 
 .test_job: &test_job
   stage: test
@@ -7,8 +8,25 @@ stages:
   script:
     - /usr/share/games/wesnoth/data/tools/wmllint --dryrun /usr/share/games/wesnoth/data/core .
 
-test:default:
+.publish_job: &publish_job
+  stage: publish
+  script:
+    - /usr/share/games/wesnoth/data/tools/wesnoth_addon_manager -u . --port $SERVER_PORT --pbl ./_server.pbl.template --pbl-key passphrase $ADDON_PASSPHRASE --pbl-key version $(git describe HEAD --tags --abbrev=0)
+  only:
+    - tags@konecnyjakub/Story_of_Wose
+  environment:
+    name: addons/$WESNOTH_VERSION
+    url: https://add-ons.wesnoth.org/$WESNOTH_VERSION/
+
+test:1.18:
   <<: *test_job
   image: konecnyjakub/wesnoth:1.18
   variables:
-    VERSION: "1.18"
+    WESNOTH_VERSION: "1.18"
+
+publish:1.18:
+  <<: *publish_job
+  image: konecnyjakub/wesnoth:1.18
+  variables:
+    WESNOTH_VERSION: "1.18"
+    SERVER_PORT: "1.18.x"
