@@ -4,6 +4,7 @@ email="jakub.konecny2@centrum.cz"
 icon="units/woses/wose.png"
 title="Story of the Wose"
 type="campaign"
+version="0.11.0"
 tags="wose,woses,green isle,mage,mages,oldwood,ruby of fire,lich lords"
 [feedback]
     topic_id=46073

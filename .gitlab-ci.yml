@@ -11,7 +11,7 @@ stages:
 .publish_job: &publish_job
   stage: publish
   script:
-    - wesnoth_addon_manager -u . --port $SERVER_PORT --pbl ./_server.pbl.template --pbl-key passphrase $ADDON_PASSPHRASE --pbl-key version $(git describe HEAD --tags --abbrev=0)
+    - wesnoth_addon_manager -u . --port $SERVER_PORT --pbl-key passphrase $ADDON_PASSPHRASE
   only:
     - tags@konecnyjakub/Story_of_Wose
   environment:
