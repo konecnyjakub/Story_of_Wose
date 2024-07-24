@@ -12,6 +12,7 @@
 
 # Continous integration/deployment
 /.gitlab-ci.yml					@konecnyjakub
+/.github/workflows/				@konecnyjakub
 
 # Translations
 /translations/wesnoth-Story_of_Wose.pot		@konecnyjakub
